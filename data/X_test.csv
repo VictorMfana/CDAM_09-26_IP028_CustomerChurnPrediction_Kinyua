@@ -1,0 +1,1870 @@
+Age,Gender,Employment_Status,Account_Type,Tenure_Months,Number_of_Products,Avg_Balance,Monthly_Transactions,Online_Banking_Usage,Mobile_Banking_Usage,Number_of_Complaints,Complaint_Resolution_Rate,Total_Digital_Usage,Balance_per_Product
+43,Male,Employed,Savings,136,3,68230,17,7,11,0,0.78,18,22743.33
+38,Female,Employed,Savings,161,1,70365,14,10,10,0,0.73,20,70365.0
+18,Male,Self-employed,Savings,13,3,149138,16,8,9,0,0.95,17,49712.67
+39,Female,Employed,Current,18,3,105842,20,11,15,0,0.86,26,35280.67
+21,Male,Employed,Savings,69,1,120476,14,10,13,0,0.66,23,120476.0
+29,Male,Employed,Current,96,2,260158,18,6,11,0,0.58,17,130079.0
+32,Female,Employed,Savings,139,3,47590,13,10,7,0,0.64,17,15863.33
+31,Female,Employed,Current,169,1,415815,6,9,11,1,0.74,20,415815.0
+43,Female,Self-employed,Current,16,1,9518,14,6,6,0,0.86,12,9518.0
+37,Male,Employed,Current,125,1,182503,17,13,14,0,0.56,27,182503.0
+28,Female,Employed,Savings,21,1,256567,9,8,13,0,0.98,21,256567.0
+59,Female,Employed,Current,61,2,31385,19,6,6,0,0.86,12,15692.5
+39,Female,Employed,Savings,145,2,36466,19,13,8,2,0.69,21,18233.0
+40,Female,Self-employed,Savings,153,3,71304,17,4,14,0,0.52,18,23768.0
+32,Female,Self-employed,Current,137,1,255952,15,5,13,0,0.99,18,255952.0
+45,Male,Employed,Savings,98,2,500,8,13,9,0,0.69,22,250.0
+48,Female,Employed,Current,133,2,4438,17,8,9,0,0.58,17,2219.0
+36,Female,Employed,Savings,42,4,35739,21,6,9,0,0.98,15,8934.75
+35,Female,Employed,Current,108,3,30848,12,6,8,0,0.75,14,10282.67
+35,Female,Employed,Savings,180,4,95162,14,10,7,0,0.67,17,23790.5
+49,Female,Employed,Savings,137,3,12134,14,8,14,0,0.56,22,4044.67
+49,Male,Employed,Savings,69,1,40737,16,7,10,1,0.64,17,40737.0
+30,Male,Employed,Savings,151,2,49469,15,9,11,0,0.57,20,24734.5
+42,Female,Employed,Savings,74,1,131732,12,8,18,1,0.54,26,131732.0
+48,Male,Unemployed,Savings,157,3,6889,20,7,7,0,0.79,14,2296.33
+49,Male,Self-employed,Savings,144,2,165464,11,6,10,1,0.54,16,82732.0
+27,Female,Employed,Current,148,4,145579,14,10,10,0,0.9,20,36394.75
+34,Male,Employed,Savings,78,4,200312,17,12,15,0,0.58,27,50078.0
+39,Male,Employed,Savings,50,1,4299,14,7,8,0,1.0,15,4299.0
+32,Female,Self-employed,Savings,131,1,114840,19,7,13,0,0.79,20,114840.0
+36,Male,Self-employed,Savings,27,2,148514,14,8,10,0,0.65,18,74257.0
+35,Female,Employed,Current,28,1,99645,17,7,7,0,0.5,14,99645.0
+47,Male,Self-employed,Savings,135,1,17705,15,5,13,1,0.82,18,17705.0
+51,Female,Employed,Savings,49,1,132529,11,9,10,0,0.92,19,132529.0
+34,Male,Self-employed,Savings,111,2,68893,16,5,12,0,0.56,17,34446.5
+36,Female,Unemployed,Savings,112,2,100315,21,8,13,0,0.82,21,50157.5
+18,Male,Self-employed,Savings,158,2,70303,15,10,10,0,0.62,20,35151.5
+39,Female,Employed,Savings,91,2,19417,22,5,8,1,0.92,13,9708.5
+36,Female,Self-employed,Current,129,2,63095,13,5,10,1,0.77,15,31547.5
+23,Male,Employed,Savings,130,1,356240,13,10,8,1,0.52,18,356240.0
+34,Male,Self-employed,Current,77,1,31928,16,7,12,0,0.88,19,31928.0
+24,Female,Employed,Savings,36,4,206052,13,14,13,0,0.87,27,51513.0
+24,Female,Employed,Fixed Deposit,71,4,29432,21,8,8,0,0.69,16,7358.0
+37,Male,Employed,Fixed Deposit,67,1,224292,6,7,8,0,0.94,15,224292.0
+29,Male,Employed,Savings,105,1,208905,18,7,11,0,0.59,18,208905.0
+35,Female,Self-employed,Savings,116,3,50078,22,9,7,1,0.96,16,16692.67
+30,Female,Employed,Savings,151,2,34809,15,7,7,0,0.93,14,17404.5
+34,Male,Unemployed,Savings,108,1,96833,8,9,6,1,0.95,15,96833.0
+29,Male,Employed,Savings,19,1,154325,22,6,8,0,0.59,14,154325.0
+47,Female,Employed,Savings,66,1,165365,16,7,12,0,0.57,19,165365.0
+42,Male,Unemployed,Current,128,3,191276,11,13,8,0,0.59,21,63758.67
+37,Male,Employed,Savings,163,4,305313,15,8,9,0,0.72,17,76328.25
+40,Male,Employed,Savings,137,4,12543,12,7,12,0,0.83,19,3135.75
+48,Female,Self-employed,Savings,101,3,47340,18,9,8,0,0.84,17,15780.0
+28,Male,Self-employed,Current,159,1,18090,21,8,15,0,0.66,23,18090.0
+19,Male,Employed,Savings,159,2,460134,15,8,5,0,0.52,13,230067.0
+56,Male,Employed,Fixed Deposit,115,1,49799,14,11,7,0,0.53,18,49799.0
+23,Male,Employed,Current,43,2,37549,18,6,7,0,0.71,13,18774.5
+44,Male,Employed,Fixed Deposit,121,3,8640,9,8,7,0,0.72,15,2880.0
+33,Female,Self-employed,Savings,170,4,608511,15,16,9,1,0.97,25,152127.75
+66,Male,Employed,Savings,85,2,69809,22,7,8,0,0.65,15,34904.5
+38,Male,Employed,Current,61,2,184080,12,12,17,0,0.89,29,92040.0
+45,Female,Employed,Fixed Deposit,166,2,424522,12,9,6,0,0.56,15,212261.0
+37,Female,Self-employed,Current,88,3,67880,12,5,11,0,0.62,16,22626.67
+34,Female,Self-employed,Current,76,2,93931,10,4,8,0,0.75,12,46965.5
+48,Female,Employed,Savings,176,4,355891,9,3,14,0,0.89,17,88972.75
+31,Female,Employed,Savings,21,3,47436,12,5,11,0,0.67,16,15812.0
+34,Male,Self-employed,Savings,152,2,12126,11,6,5,0,0.87,11,6063.0
+33,Male,Employed,Savings,134,1,23981,21,9,7,0,0.61,16,23981.0
+34,Female,Employed,Savings,112,1,1996,16,14,7,0,0.81,21,1996.0
+40,Female,Self-employed,Current,113,4,1506,19,5,5,0,0.91,10,376.5
+30,Male,Employed,Fixed Deposit,141,1,129283,11,9,11,0,0.61,20,129283.0
+20,Male,Unemployed,Savings,14,4,229718,19,6,10,0,0.63,16,57429.5
+22,Female,Self-employed,Current,51,3,110752,15,5,10,0,0.57,15,36917.33
+27,Female,Unemployed,Savings,126,2,53638,10,8,13,0,0.54,21,26819.0
+34,Male,Unemployed,Fixed Deposit,129,1,63776,15,7,10,0,0.62,17,63776.0
+37,Female,Employed,Current,102,2,47826,15,9,14,0,0.54,23,23913.0
+27,Male,Employed,Savings,137,4,24364,14,4,14,0,0.84,18,6091.0
+55,Male,Self-employed,Current,50,3,157707,17,10,9,0,0.75,19,52569.0
+29,Male,Self-employed,Current,152,3,185948,11,9,9,0,0.63,18,61982.67
+45,Female,Employed,Current,121,1,158443,20,4,13,0,0.95,17,158443.0
+39,Female,Employed,Savings,145,3,83941,14,9,11,0,0.58,20,27980.33
+37,Female,Employed,Fixed Deposit,55,2,375517,16,4,7,0,0.53,11,187758.5
+44,Male,Employed,Savings,135,2,90457,19,10,10,0,0.6,20,45228.5
+37,Male,Employed,Current,62,1,410995,12,6,11,0,0.56,17,410995.0
+45,Male,Unemployed,Savings,72,1,194693,8,6,10,0,0.58,16,194693.0
+33,Female,Employed,Savings,167,2,60801,9,11,8,0,0.54,19,30400.5
+38,Male,Self-employed,Savings,16,2,77911,18,10,9,1,0.9,19,38955.5
+23,Female,Self-employed,Savings,15,3,7289,19,10,20,0,0.5,30,2429.67
+45,Male,Employed,Current,129,3,53046,24,7,4,0,0.75,11,17682.0
+38,Male,Self-employed,Savings,125,1,444560,21,9,5,0,0.76,14,444560.0
+39,Male,Employed,Savings,138,2,103061,17,11,9,0,0.55,20,51530.5
+31,Male,Self-employed,Savings,131,1,197504,15,6,15,0,0.9,21,197504.0
+23,Female,Self-employed,Fixed Deposit,161,1,47870,12,11,7,0,0.91,18,47870.0
+34,Male,Self-employed,Savings,122,2,195508,12,8,14,0,0.55,22,97754.0
+30,Male,Self-employed,Savings,159,4,14592,10,3,11,2,0.71,14,3648.0
+24,Male,Self-employed,Current,116,2,252622,18,13,11,0,0.53,24,126311.0
+43,Male,Self-employed,Savings,28,2,110149,11,7,8,0,0.79,15,55074.5
+35,Male,Employed,Current,55,1,183237,17,7,12,0,0.67,19,183237.0
+23,Female,Employed,Savings,38,4,39535,15,11,12,1,0.81,23,9883.75
+35,Male,Employed,Current,167,1,1735,16,4,11,0,0.77,15,1735.0
+48,Male,Employed,Savings,46,2,18252,14,9,9,0,0.72,18,9126.0
+26,Male,Employed,Current,127,2,56458,16,6,10,0,0.88,16,28229.0
+18,Female,Employed,Savings,86,1,176545,12,10,6,0,0.94,16,176545.0
+33,Female,Employed,Savings,132,3,110719,17,1,9,0,0.93,10,36906.33
+21,Female,Employed,Current,150,2,3426,13,4,9,1,0.5,13,1713.0
+27,Male,Self-employed,Savings,62,1,26155,15,10,13,1,0.68,23,26155.0
+41,Male,Employed,Current,176,1,204868,18,7,8,0,0.96,15,204868.0
+49,Male,Self-employed,Current,99,2,250112,19,8,16,0,0.92,24,125056.0
+25,Male,Employed,Savings,150,1,53392,23,9,12,1,0.81,21,53392.0
+37,Male,Unemployed,Savings,34,2,487379,16,6,12,0,0.86,18,243689.5
+29,Male,Self-employed,Current,41,4,168837,17,14,8,0,0.97,22,42209.25
+34,Female,Self-employed,Savings,96,1,116664,12,8,17,0,0.72,25,116664.0
+31,Female,Employed,Savings,139,1,139352,7,13,13,0,0.97,26,139352.0
+37,Male,Self-employed,Savings,142,2,124141,9,3,12,0,0.57,15,62070.5
+19,Female,Self-employed,Current,14,3,31027,12,9,10,1,0.74,19,10342.33
+49,Male,Employed,Savings,51,3,183830,13,7,9,0,0.82,16,61276.67
+29,Female,Employed,Current,173,1,149400,15,9,12,0,0.56,21,149400.0
+31,Male,Employed,Current,73,1,321505,11,10,15,0,0.57,25,321505.0
+43,Female,Self-employed,Savings,17,1,39635,19,5,12,1,0.64,17,39635.0
+40,Male,Employed,Fixed Deposit,94,3,112194,11,10,11,0,0.84,21,37398.0
+38,Female,Unemployed,Savings,51,4,37864,19,10,11,0,0.76,21,9466.0
+34,Female,Unemployed,Savings,35,1,18432,9,9,19,0,0.97,28,18432.0
+18,Female,Self-employed,Fixed Deposit,161,1,75147,16,6,8,0,0.96,14,75147.0
+31,Male,Employed,Savings,97,2,166558,11,3,13,0,0.79,16,83279.0
+31,Male,Employed,Savings,47,1,57357,20,8,9,1,0.62,17,57357.0
+39,Female,Self-employed,Current,95,2,46136,14,11,11,0,0.54,22,23068.0
+24,Female,Self-employed,Current,174,1,4437,13,8,11,0,0.99,19,4437.0
+32,Male,Employed,Savings,56,2,99176,14,8,16,1,0.93,24,49588.0
+45,Male,Employed,Savings,66,2,292511,11,8,9,1,0.61,17,146255.5
+49,Female,Self-employed,Current,132,2,675384,13,10,9,0,0.9,19,337692.0
+39,Female,Self-employed,Savings,130,2,51690,15,4,8,0,0.83,12,25845.0
+32,Male,Employed,Savings,87,1,69544,12,7,10,0,0.52,17,69544.0
+37,Female,Employed,Savings,118,1,195395,11,9,11,0,0.95,20,195395.0
+32,Male,Self-employed,Current,32,4,69218,13,13,8,1,0.75,21,17304.5
+29,Female,Employed,Fixed Deposit,141,2,50135,11,8,13,0,0.86,21,25067.5
+41,Female,Self-employed,Current,68,1,43330,10,10,7,0,0.95,17,43330.0
+32,Female,Unemployed,Savings,163,1,26072,20,9,9,0,0.84,18,26072.0
+19,Male,Employed,Current,156,2,252762,18,13,5,1,0.7,18,126381.0
+27,Female,Self-employed,Current,31,2,103006,20,11,9,0,0.98,20,51503.0
+51,Male,Unemployed,Savings,80,1,14434,18,6,14,0,0.76,20,14434.0
+44,Female,Self-employed,Savings,20,1,128206,15,8,12,0,0.67,20,128206.0
+41,Male,Employed,Savings,24,1,22437,17,7,7,0,0.59,14,22437.0
+35,Male,Employed,Fixed Deposit,34,3,112500,13,7,7,0,0.86,14,37500.0
+48,Male,Employed,Savings,26,1,34022,12,12,6,0,0.61,18,34022.0
+40,Male,Employed,Current,28,1,142698,13,6,8,1,0.87,14,142698.0
+30,Male,Self-employed,Savings,139,1,65412,12,6,12,0,0.76,18,65412.0
+25,Female,Employed,Current,152,1,16668,17,10,5,0,0.51,15,16668.0
+41,Male,Self-employed,Current,33,2,80080,8,10,8,0,0.9,18,40040.0
+39,Female,Employed,Current,135,1,51424,14,4,5,0,0.52,9,51424.0
+34,Male,Employed,Current,50,1,108531,18,13,10,0,0.6,23,108531.0
+40,Male,Employed,Current,31,1,370504,17,8,8,0,0.86,16,370504.0
+29,Female,Self-employed,Savings,76,1,343770,19,3,12,0,0.92,15,343770.0
+26,Female,Self-employed,Current,28,4,11386,17,8,5,0,0.71,13,2846.5
+48,Male,Employed,Savings,69,3,1697,18,13,5,0,0.68,18,565.67
+38,Male,Employed,Savings,71,3,168239,11,10,8,0,0.74,18,56079.67
+46,Female,Employed,Savings,124,2,70492,12,11,4,0,0.94,15,35246.0
+41,Female,Unemployed,Savings,85,3,2756,16,13,10,0,0.95,23,918.67
+36,Male,Self-employed,Fixed Deposit,134,1,72192,18,3,13,0,0.95,16,72192.0
+33,Male,Self-employed,Savings,88,2,644358,13,6,11,1,0.69,17,322179.0
+37,Male,Employed,Savings,173,1,109939,14,9,21,0,0.62,30,109939.0
+23,Female,Employed,Savings,31,1,165323,12,3,7,1,0.64,10,165323.0
+33,Female,Employed,Savings,108,1,364481,18,8,11,1,0.87,19,364481.0
+29,Male,Employed,Current,145,2,154426,17,8,10,0,0.99,18,77213.0
+28,Male,Employed,Current,26,1,73874,20,10,12,0,0.55,22,73874.0
+26,Female,Self-employed,Savings,128,3,177280,14,9,9,0,0.72,18,59093.33
+27,Female,Employed,Savings,51,2,55427,16,5,9,0,0.52,14,27713.5
+18,Male,Unemployed,Savings,55,3,42087,19,4,14,0,0.69,18,14029.0
+29,Male,Employed,Current,101,2,298048,18,6,11,0,0.72,17,149024.0
+52,Female,Unemployed,Current,41,1,412301,11,10,10,0,0.71,20,412301.0
+26,Male,Employed,Savings,85,3,15960,12,8,8,0,0.85,16,5320.0
+55,Female,Employed,Current,51,3,10214,18,6,9,0,0.59,15,3404.67
+45,Male,Unemployed,Fixed Deposit,38,1,301671,12,10,9,0,0.86,19,301671.0
+18,Female,Unemployed,Savings,162,2,102145,15,6,13,0,0.63,19,51072.5
+18,Female,Employed,Savings,143,1,117278,16,4,12,0,0.87,16,117278.0
+51,Female,Self-employed,Savings,81,2,35577,14,6,9,0,0.92,15,17788.5
+54,Male,Employed,Fixed Deposit,161,2,407191,19,7,12,0,0.58,19,203595.5
+34,Male,Unemployed,Savings,65,2,141248,12,8,9,0,0.88,17,70624.0
+42,Male,Employed,Current,38,4,171327,17,9,6,1,0.63,15,42831.75
+51,Female,Employed,Savings,31,3,142720,15,7,9,0,0.72,16,47573.33
+34,Female,Employed,Current,50,1,59497,18,11,12,0,0.97,23,59497.0
+36,Male,Employed,Savings,87,2,51958,12,2,6,0,0.64,8,25979.0
+50,Female,Employed,Current,126,3,259188,7,11,12,0,0.55,23,86396.0
+30,Male,Employed,Savings,167,2,23163,14,14,8,1,0.61,22,11581.5
+35,Female,Self-employed,Savings,30,1,445971,14,7,11,0,0.9,18,445971.0
+34,Female,Employed,Current,50,4,232149,16,9,5,0,0.62,14,58037.25
+43,Male,Unemployed,Savings,70,2,11478,11,6,11,0,0.84,17,5739.0
+40,Female,Employed,Current,30,1,423336,16,8,9,0,1.0,17,423336.0
+18,Male,Employed,Current,128,2,421735,20,10,10,0,0.68,20,210867.5
+36,Female,Employed,Savings,175,1,151063,15,13,5,0,0.72,18,151063.0
+64,Male,Unemployed,Current,59,2,184382,10,7,12,0,0.67,19,92191.0
+18,Female,Employed,Fixed Deposit,163,2,6441,12,8,9,0,0.67,17,3220.5
+37,Male,Self-employed,Savings,145,3,24288,8,9,10,0,0.88,19,8096.0
+24,Male,Employed,Savings,109,2,294949,20,12,11,1,0.89,23,147474.5
+32,Female,Employed,Current,75,4,27697,13,11,9,0,0.55,20,6924.25
+38,Female,Self-employed,Savings,156,2,3590,6,7,13,0,0.64,20,1795.0
+31,Male,Self-employed,Savings,133,2,36365,20,6,5,0,0.53,11,18182.5
+19,Female,Self-employed,Savings,49,2,261332,13,4,12,0,0.62,16,130666.0
+50,Female,Employed,Savings,73,2,2954,19,8,14,1,0.72,22,1477.0
+19,Female,Employed,Savings,62,1,172994,13,9,8,0,0.98,17,172994.0
+31,Female,Employed,Savings,116,2,191122,23,9,12,0,0.85,21,95561.0
+21,Male,Self-employed,Savings,97,4,99474,9,10,7,0,0.89,17,24868.5
+46,Female,Employed,Savings,163,3,274136,14,8,17,0,0.68,25,91378.67
+26,Male,Employed,Savings,84,2,45037,21,9,10,0,0.52,19,22518.5
+34,Male,Unemployed,Savings,52,3,301534,14,8,9,0,0.58,17,100511.33
+39,Female,Employed,Savings,146,3,255222,18,5,15,0,0.83,20,85074.0
+20,Male,Employed,Fixed Deposit,166,1,256293,11,7,8,1,0.93,15,256293.0
+41,Female,Self-employed,Savings,70,3,48619,16,5,12,0,0.69,17,16206.33
+38,Male,Unemployed,Current,109,1,210383,15,14,14,0,0.67,28,210383.0
+25,Male,Employed,Current,102,1,3978,18,4,6,0,0.82,10,3978.0
+23,Female,Self-employed,Savings,84,1,124927,16,6,11,1,0.51,17,124927.0
+36,Female,Employed,Savings,176,1,86282,15,8,7,1,0.85,15,86282.0
+44,Male,Self-employed,Savings,161,2,45379,15,7,12,0,0.93,19,22689.5
+23,Female,Employed,Current,95,4,53345,12,7,7,0,0.66,14,13336.25
+31,Female,Self-employed,Fixed Deposit,83,1,106467,12,3,9,0,0.93,12,106467.0
+33,Male,Employed,Current,88,4,167024,15,4,8,0,0.51,12,41756.0
+18,Female,Employed,Savings,95,1,2910,12,10,7,1,0.83,17,2910.0
+49,Male,Unemployed,Current,167,2,358750,13,8,7,0,0.83,15,179375.0
+63,Male,Employed,Savings,170,1,109207,11,6,8,0,0.86,14,109207.0
+18,Female,Unemployed,Savings,178,4,186379,18,8,7,0,1.0,15,46594.75
+18,Female,Employed,Savings,168,1,60541,11,12,8,0,0.77,20,60541.0
+43,Female,Employed,Savings,65,1,87689,8,9,15,0,0.55,24,87689.0
+18,Female,Unemployed,Savings,151,2,247364,19,6,8,0,0.59,14,123682.0
+36,Male,Self-employed,Savings,173,4,113727,15,12,8,1,0.52,20,28431.75
+31,Male,Employed,Current,131,3,208898,18,6,8,0,0.52,14,69632.67
+21,Female,Employed,Savings,140,1,157518,17,9,13,0,0.73,22,157518.0
+44,Female,Employed,Savings,99,2,162973,12,7,11,0,0.78,18,81486.5
+30,Female,Employed,Fixed Deposit,95,1,133440,7,9,7,0,0.56,16,133440.0
+32,Male,Employed,Current,67,2,8023,16,7,11,0,0.66,18,4011.5
+26,Female,Self-employed,Savings,145,2,57377,16,6,13,0,0.63,19,28688.5
+51,Male,Employed,Savings,128,2,77821,14,9,9,0,0.76,18,38910.5
+50,Female,Employed,Savings,114,1,1347,12,6,12,0,0.58,18,1347.0
+48,Female,Unemployed,Savings,95,3,27676,18,6,9,0,0.57,15,9225.33
+41,Female,Employed,Savings,136,1,75203,12,9,11,0,0.82,20,75203.0
+44,Male,Employed,Savings,55,2,29312,11,6,12,0,0.85,18,14656.0
+36,Female,Employed,Savings,46,2,65189,15,9,4,0,0.62,13,32594.5
+50,Female,Self-employed,Current,63,1,166522,17,7,10,0,0.58,17,166522.0
+28,Male,Employed,Savings,13,1,342902,15,7,10,1,0.76,17,342902.0
+32,Male,Employed,Savings,29,4,554093,8,7,12,1,0.86,19,138523.25
+31,Male,Employed,Fixed Deposit,41,1,215368,19,6,8,0,0.85,14,215368.0
+49,Female,Employed,Savings,91,1,27339,14,3,14,0,0.9,17,27339.0
+44,Male,Employed,Current,72,3,68269,17,6,14,1,0.97,20,22756.33
+26,Female,Self-employed,Fixed Deposit,71,2,136541,17,7,12,0,0.56,19,68270.5
+26,Female,Employed,Fixed Deposit,90,1,73319,17,7,9,0,0.94,16,73319.0
+32,Female,Employed,Current,20,3,254617,13,6,6,0,0.79,12,84872.33
+27,Male,Self-employed,Current,127,3,70938,20,9,9,0,0.56,18,23646.0
+41,Female,Employed,Savings,100,2,94798,17,3,12,0,0.66,15,47399.0
+34,Female,Employed,Savings,38,1,249696,12,10,10,1,0.7,20,249696.0
+18,Female,Employed,Savings,157,2,28155,23,8,7,0,0.61,15,14077.5
+51,Female,Self-employed,Current,161,1,9599,14,7,10,1,0.91,17,9599.0
+25,Male,Employed,Savings,108,1,359827,11,7,10,0,0.66,17,359827.0
+35,Female,Unemployed,Fixed Deposit,52,4,697,16,11,15,0,0.84,26,174.25
+18,Male,Employed,Savings,69,2,155724,24,9,12,0,0.77,21,77862.0
+31,Male,Employed,Savings,52,2,51557,20,2,10,0,0.72,12,25778.5
+33,Male,Self-employed,Current,155,2,86389,17,12,12,1,0.65,24,43194.5
+31,Female,Employed,Current,23,1,361594,16,8,10,0,0.83,18,361594.0
+29,Male,Unemployed,Current,98,2,138883,12,6,10,0,0.75,16,69441.5
+45,Female,Unemployed,Savings,60,3,166185,14,7,14,0,0.55,21,55395.0
+42,Male,Employed,Savings,162,3,249027,21,11,14,0,0.88,25,83009.0
+22,Female,Employed,Savings,178,2,6901,19,11,16,0,0.97,27,3450.5
+36,Male,Self-employed,Current,107,2,81047,13,9,11,1,0.78,20,40523.5
+18,Female,Self-employed,Savings,44,1,192702,20,10,4,0,0.72,14,192702.0
+29,Female,Unemployed,Fixed Deposit,128,3,73500,21,12,18,0,0.62,30,24500.0
+26,Female,Unemployed,Current,138,1,630,17,4,13,0,0.51,17,630.0
+32,Female,Unemployed,Savings,111,1,275589,14,10,13,0,0.6,23,275589.0
+18,Male,Employed,Savings,121,1,73156,16,9,5,0,0.96,14,73156.0
+40,Female,Employed,Savings,136,2,162874,21,10,11,0,0.62,21,81437.0
+33,Male,Self-employed,Savings,124,3,9374,13,5,4,0,0.99,9,3124.67
+24,Female,Employed,Current,120,1,36748,13,7,11,0,0.8,18,36748.0
+22,Female,Employed,Current,97,2,171830,23,12,13,0,0.76,25,85915.0
+42,Female,Employed,Current,29,4,62423,15,12,8,0,0.58,20,15605.75
+37,Female,Employed,Current,102,2,5608,17,11,8,0,0.7,19,2804.0
+36,Male,Employed,Savings,145,1,114336,19,7,10,0,0.53,17,114336.0
+51,Male,Employed,Savings,171,2,90539,9,13,7,0,0.56,20,45269.5
+19,Female,Employed,Savings,90,2,15441,17,8,4,0,0.57,12,7720.5
+26,Female,Employed,Savings,31,3,632634,9,7,10,0,0.73,17,210878.0
+25,Male,Employed,Current,79,1,76149,16,7,10,0,0.81,17,76149.0
+34,Male,Employed,Savings,82,3,30661,12,7,9,0,0.81,16,10220.33
+22,Male,Employed,Savings,121,1,167559,10,7,11,1,0.77,18,167559.0
+28,Female,Employed,Savings,94,2,143837,20,8,6,0,0.74,14,71918.5
+30,Male,Self-employed,Current,170,2,178908,18,3,10,1,0.94,13,89454.0
+34,Female,Self-employed,Current,148,1,2841,18,8,12,0,0.86,20,2841.0
+43,Female,Self-employed,Savings,179,2,3155,13,8,6,0,0.9,14,1577.5
+52,Male,Employed,Current,13,4,33271,12,11,7,0,0.69,18,8317.75
+32,Female,Employed,Current,142,4,74516,19,7,4,0,0.51,11,18629.0
+35,Female,Employed,Fixed Deposit,82,1,105730,15,7,9,1,0.94,16,105730.0
+30,Male,Self-employed,Savings,53,1,44719,15,4,8,1,0.74,12,44719.0
+33,Female,Employed,Current,67,1,72938,11,11,12,1,0.51,23,72938.0
+34,Female,Unemployed,Savings,148,1,293885,9,5,7,0,0.77,12,293885.0
+46,Male,Employed,Current,45,1,142367,13,6,6,0,0.92,12,142367.0
+31,Female,Employed,Current,176,1,216468,18,7,8,0,0.54,15,216468.0
+20,Male,Employed,Savings,79,1,101076,19,1,13,0,0.95,14,101076.0
+44,Male,Self-employed,Savings,59,2,54602,15,6,6,0,0.87,12,27301.0
+31,Female,Employed,Savings,107,3,125871,13,3,11,1,0.88,14,41957.0
+18,Female,Employed,Savings,145,1,28915,10,5,7,0,0.71,12,28915.0
+35,Male,Employed,Current,26,2,83990,20,8,12,0,0.83,20,41995.0
+32,Male,Self-employed,Savings,77,2,74240,12,8,4,0,0.5,12,37120.0
+28,Female,Employed,Savings,118,4,61012,15,7,11,0,0.6,18,15253.0
+32,Female,Employed,Savings,32,2,201230,17,7,6,0,0.75,13,100615.0
+40,Female,Employed,Savings,179,3,148172,17,13,10,0,0.93,23,49390.67
+43,Female,Employed,Savings,83,1,54290,11,14,7,0,0.85,21,54290.0
+21,Female,Employed,Savings,25,1,166664,16,13,11,0,0.88,24,166664.0
+32,Male,Employed,Savings,124,2,22677,8,12,8,0,0.77,20,11338.5
+31,Female,Employed,Savings,36,2,225456,15,12,7,0,0.97,19,112728.0
+31,Female,Unemployed,Savings,66,2,21746,8,9,13,0,0.66,22,10873.0
+47,Female,Self-employed,Current,108,1,11860,21,12,9,1,0.63,21,11860.0
+28,Female,Employed,Savings,20,2,217610,18,9,20,0,0.72,29,108805.0
+27,Female,Self-employed,Savings,20,1,187119,14,5,11,0,0.53,16,187119.0
+28,Female,Employed,Savings,49,2,150785,10,10,9,0,0.82,19,75392.5
+25,Male,Employed,Current,117,4,750283,15,8,24,0,0.53,32,187570.75
+29,Female,Self-employed,Savings,42,1,187677,12,11,14,0,0.96,25,187677.0
+21,Female,Self-employed,Current,49,3,245209,15,11,11,1,0.88,22,81736.33
+52,Male,Unemployed,Fixed Deposit,56,3,63637,11,8,12,0,0.88,20,21212.33
+44,Female,Unemployed,Savings,37,4,223891,15,10,10,0,0.92,20,55972.75
+33,Male,Employed,Current,141,2,338693,13,8,9,0,0.79,17,169346.5
+36,Male,Employed,Savings,37,1,57742,13,9,8,0,0.89,17,57742.0
+33,Male,Employed,Current,18,4,67499,12,7,8,0,0.96,15,16874.75
+47,Male,Employed,Savings,36,1,157841,14,8,5,0,0.56,13,157841.0
+41,Female,Employed,Savings,115,1,93175,19,7,14,0,0.94,21,93175.0
+55,Female,Employed,Savings,101,1,844030,16,9,9,0,0.56,18,844030.0
+21,Female,Employed,Fixed Deposit,48,2,323580,11,5,8,1,0.89,13,161790.0
+39,Male,Employed,Current,123,2,10751,14,18,14,0,0.91,32,5375.5
+36,Female,Employed,Fixed Deposit,45,2,106210,11,7,10,0,0.68,17,53105.0
+35,Female,Self-employed,Savings,135,1,131285,9,8,10,0,0.76,18,131285.0
+18,Female,Self-employed,Savings,118,2,114300,17,11,9,0,0.51,20,57150.0
+31,Female,Employed,Savings,14,1,87860,15,8,9,0,0.92,17,87860.0
+35,Female,Employed,Fixed Deposit,157,2,218110,17,8,8,0,0.92,16,109055.0
+43,Male,Employed,Savings,14,4,80426,18,8,11,0,0.69,19,20106.5
+28,Male,Employed,Savings,88,4,42643,10,9,12,0,0.79,21,10660.75
+41,Male,Employed,Savings,105,1,75683,20,5,11,0,0.67,16,75683.0
+37,Female,Self-employed,Current,47,1,134108,13,6,5,0,0.76,11,134108.0
+18,Male,Employed,Current,50,3,32038,12,4,11,0,0.94,15,10679.33
+34,Male,Employed,Current,139,4,143749,18,6,17,0,0.67,23,35937.25
+47,Female,Self-employed,Savings,112,3,35028,10,8,8,0,0.97,16,11676.0
+35,Female,Unemployed,Current,113,1,64955,16,9,12,0,0.69,21,64955.0
+29,Male,Employed,Fixed Deposit,30,3,79846,13,6,10,0,0.93,16,26615.33
+46,Female,Self-employed,Savings,170,3,49197,18,11,11,0,0.99,22,16399.0
+18,Female,Self-employed,Fixed Deposit,62,3,201683,13,2,12,0,0.81,14,67227.67
+43,Female,Employed,Savings,72,1,123444,13,12,9,0,0.75,21,123444.0
+44,Female,Self-employed,Savings,145,2,208931,21,4,11,0,0.94,15,104465.5
+19,Female,Self-employed,Savings,143,4,102986,20,7,16,0,0.66,23,25746.5
+38,Female,Employed,Fixed Deposit,22,1,1230074,9,10,6,0,0.85,16,1230074.0
+32,Male,Self-employed,Savings,124,3,210661,26,12,10,1,0.53,22,70220.33
+47,Female,Employed,Savings,100,2,43384,9,5,9,1,0.9,14,21692.0
+43,Female,Employed,Current,165,2,53245,15,13,7,0,0.99,20,26622.5
+34,Male,Employed,Savings,165,1,366550,13,4,13,0,0.83,17,366550.0
+39,Male,Employed,Current,52,1,1682,16,9,14,0,0.57,23,1682.0
+40,Female,Employed,Fixed Deposit,102,1,142278,11,7,10,0,0.54,17,142278.0
+18,Female,Unemployed,Savings,142,2,5557,19,11,11,0,0.96,22,2778.5
+47,Female,Self-employed,Savings,165,4,78365,14,8,6,0,0.89,14,19591.25
+28,Male,Unemployed,Savings,166,3,166187,10,3,12,0,0.78,15,55395.67
+21,Male,Self-employed,Current,16,1,29066,10,9,8,0,0.96,17,29066.0
+39,Female,Self-employed,Savings,42,2,360567,13,5,16,0,0.77,21,180283.5
+28,Female,Unemployed,Current,39,1,6471,23,9,10,0,0.82,19,6471.0
+30,Male,Self-employed,Savings,141,2,434680,16,11,9,0,0.67,20,217340.0
+31,Male,Employed,Savings,40,1,126449,10,8,10,2,0.95,18,126449.0
+29,Female,Self-employed,Savings,92,2,226045,12,12,11,0,0.99,23,113022.5
+29,Female,Unemployed,Savings,132,1,356387,15,11,5,0,0.64,16,356387.0
+50,Female,Employed,Savings,110,1,8472,13,10,8,1,0.68,18,8472.0
+47,Female,Unemployed,Savings,146,3,32246,13,6,7,0,0.74,13,10748.67
+22,Male,Employed,Savings,171,1,428353,18,4,6,1,0.87,10,428353.0
+25,Male,Employed,Current,124,3,126063,15,8,8,0,0.82,16,42021.0
+18,Female,Self-employed,Current,130,1,11327,11,10,7,0,0.73,17,11327.0
+48,Male,Employed,Savings,125,1,86728,7,10,15,0,0.82,25,86728.0
+41,Male,Self-employed,Savings,21,3,50341,17,7,11,0,0.78,18,16780.33
+26,Male,Employed,Savings,47,4,342986,26,11,9,0,0.68,20,85746.5
+39,Female,Employed,Savings,24,3,158636,11,8,10,0,0.84,18,52878.67
+43,Male,Unemployed,Savings,170,4,58238,10,2,11,0,0.58,13,14559.5
+36,Male,Employed,Savings,142,3,39280,11,7,11,1,0.91,18,13093.33
+24,Male,Self-employed,Fixed Deposit,33,2,29441,18,9,8,0,0.55,17,14720.5
+38,Male,Employed,Savings,111,1,44224,19,8,10,0,0.55,18,44224.0
+22,Female,Employed,Current,129,1,87092,23,13,11,0,0.59,24,87092.0
+58,Male,Unemployed,Savings,83,3,244996,12,8,10,0,0.64,18,81665.33
+56,Female,Self-employed,Savings,131,1,134713,15,9,10,0,0.55,19,134713.0
+41,Female,Employed,Current,36,2,165552,12,6,9,0,0.98,15,82776.0
+22,Male,Self-employed,Savings,128,2,66870,9,8,4,0,0.85,12,33435.0
+49,Male,Employed,Current,105,1,133808,21,5,6,1,0.59,11,133808.0
+45,Male,Self-employed,Current,152,3,408546,12,7,6,0,0.58,13,136182.0
+22,Female,Employed,Savings,162,4,33151,11,5,5,0,0.83,10,8287.75
+30,Female,Employed,Savings,150,2,70709,19,6,18,0,0.84,24,35354.5
+20,Male,Employed,Savings,41,3,8738,20,5,1,0,0.56,6,2912.67
+40,Female,Self-employed,Current,157,3,330726,14,10,5,0,0.72,15,110242.0
+40,Female,Employed,Fixed Deposit,113,4,623106,9,8,7,0,0.57,15,155776.5
+38,Female,Unemployed,Savings,16,1,350992,22,7,8,1,0.71,15,350992.0
+34,Female,Employed,Savings,17,2,79960,30,7,8,0,0.91,15,39980.0
+18,Female,Employed,Current,40,1,66845,19,6,9,0,0.62,15,66845.0
+18,Male,Employed,Current,29,1,293208,16,6,11,0,0.79,17,293208.0
+44,Male,Employed,Current,158,1,181694,11,9,14,0,0.97,23,181694.0
+39,Male,Unemployed,Current,120,1,172570,17,7,12,0,0.93,19,172570.0
+38,Male,Employed,Current,30,1,77124,11,9,14,0,0.66,23,77124.0
+23,Male,Employed,Savings,43,1,117504,14,10,13,0,0.79,23,117504.0
+40,Male,Employed,Current,174,1,74911,15,15,4,2,0.93,19,74911.0
+22,Female,Employed,Current,32,4,29173,18,6,8,0,0.97,14,7293.25
+44,Male,Employed,Savings,84,3,210466,8,10,9,1,0.65,19,70155.33
+28,Female,Self-employed,Savings,56,4,117181,14,6,10,0,0.9,16,29295.25
+59,Female,Self-employed,Savings,56,3,165438,12,13,21,1,0.99,34,55146.0
+37,Female,Self-employed,Savings,128,1,135450,20,17,8,0,0.91,25,135450.0
+40,Female,Employed,Savings,71,1,25764,16,11,11,0,0.59,22,25764.0
+30,Female,Employed,Current,173,2,386798,17,9,7,0,0.7,16,193399.0
+38,Female,Self-employed,Savings,160,1,40485,14,9,9,0,0.69,18,40485.0
+32,Male,Self-employed,Fixed Deposit,105,2,700617,9,8,14,0,0.5,22,350308.5
+24,Female,Self-employed,Current,141,2,135971,16,6,14,0,0.66,20,67985.5
+28,Male,Self-employed,Current,112,4,89486,10,4,8,1,0.63,12,22371.5
+45,Male,Employed,Savings,152,2,51303,15,12,9,1,0.72,21,25651.5
+37,Male,Employed,Fixed Deposit,42,3,129782,20,10,10,0,0.94,20,43260.67
+53,Male,Self-employed,Current,171,2,724542,13,10,7,0,0.68,17,362271.0
+40,Male,Employed,Current,94,2,3277,19,11,11,0,0.66,22,1638.5
+29,Female,Employed,Current,93,2,65270,16,8,7,0,0.67,15,32635.0
+42,Male,Employed,Savings,73,2,168346,15,11,10,1,0.95,21,84173.0
+39,Female,Unemployed,Savings,141,1,39633,11,6,13,0,0.56,19,39633.0
+27,Female,Employed,Savings,65,2,116211,14,6,7,0,0.94,13,58105.5
+51,Male,Self-employed,Fixed Deposit,26,1,6630,8,13,5,0,0.52,18,6630.0
+45,Female,Unemployed,Fixed Deposit,84,1,109652,14,11,9,0,0.58,20,109652.0
+34,Female,Unemployed,Fixed Deposit,91,1,11367,13,14,12,1,0.86,26,11367.0
+42,Male,Employed,Savings,158,1,281771,10,10,9,0,0.74,19,281771.0
+30,Female,Self-employed,Savings,14,2,325836,16,8,10,0,0.7,18,162918.0
+28,Female,Unemployed,Savings,94,4,214347,15,6,8,0,0.74,14,53586.75
+28,Male,Employed,Savings,51,1,63549,22,13,9,0,0.55,22,63549.0
+30,Female,Employed,Current,35,3,208211,15,9,11,0,0.8,20,69403.67
+46,Male,Self-employed,Savings,61,3,226114,15,5,7,0,0.61,12,75371.33
+36,Female,Unemployed,Current,18,2,166048,20,4,7,1,0.78,11,83024.0
+34,Male,Self-employed,Savings,14,1,76678,17,9,12,0,0.65,21,76678.0
+27,Female,Self-employed,Savings,82,2,82802,24,10,10,0,0.59,20,41401.0
+49,Female,Employed,Current,50,2,72368,12,7,11,0,0.86,18,36184.0
+35,Male,Self-employed,Savings,179,3,3670,16,9,9,0,0.7,18,1223.33
+45,Male,Employed,Savings,86,1,33365,14,8,13,0,0.59,21,33365.0
+41,Female,Employed,Current,166,2,137093,19,11,9,0,0.69,20,68546.5
+45,Female,Employed,Savings,86,1,11934,15,12,9,0,0.75,21,11934.0
+43,Female,Unemployed,Savings,17,2,24377,16,10,12,0,0.73,22,12188.5
+31,Female,Employed,Fixed Deposit,40,3,124815,11,7,6,0,0.86,13,41605.0
+46,Male,Employed,Current,127,1,11588,15,10,5,0,0.64,15,11588.0
+52,Male,Employed,Savings,116,4,557072,15,8,7,0,0.98,15,139268.0
+48,Female,Employed,Current,134,1,335393,18,5,12,0,0.76,17,335393.0
+23,Male,Self-employed,Savings,24,3,74117,14,5,14,1,0.81,19,24705.67
+42,Male,Employed,Savings,77,2,177188,21,12,11,0,0.86,23,88594.0
+22,Male,Employed,Savings,45,1,21598,12,5,9,0,0.7,14,21598.0
+29,Female,Employed,Savings,134,1,277531,15,11,7,0,0.68,18,277531.0
+39,Male,Self-employed,Savings,99,2,367853,17,6,6,0,0.84,12,183926.5
+45,Male,Employed,Savings,62,2,12334,11,7,12,0,0.67,19,6167.0
+27,Female,Unemployed,Current,105,3,3797,11,5,10,1,0.77,15,1265.67
+31,Male,Self-employed,Fixed Deposit,164,1,58878,19,5,9,0,0.85,14,58878.0
+59,Female,Self-employed,Savings,63,1,3851,12,11,8,0,0.69,19,3851.0
+48,Male,Unemployed,Savings,82,1,46143,9,7,7,0,0.5,14,46143.0
+29,Male,Employed,Savings,63,2,131531,14,6,8,0,0.93,14,65765.5
+47,Female,Employed,Current,130,2,111607,14,7,9,1,0.86,16,55803.5
+30,Male,Self-employed,Current,123,2,88372,11,4,7,0,0.61,11,44186.0
+38,Male,Employed,Savings,56,3,58085,13,10,6,0,0.75,16,19361.67
+23,Female,Self-employed,Current,116,2,111158,15,9,12,0,0.7,21,55579.0
+26,Male,Employed,Current,57,1,485195,17,6,11,0,0.69,17,485195.0
+28,Female,Self-employed,Current,49,1,84548,15,11,12,0,0.87,23,84548.0
+27,Female,Employed,Savings,122,2,15714,18,8,11,1,0.69,19,7857.0
+39,Female,Self-employed,Fixed Deposit,32,1,242799,11,3,8,0,0.97,11,242799.0
+44,Female,Unemployed,Savings,45,3,102674,19,6,10,0,0.65,16,34224.67
+52,Male,Employed,Savings,146,2,262224,11,5,8,0,0.53,13,131112.0
+56,Male,Self-employed,Savings,134,4,15068,10,8,10,1,0.82,18,3767.0
+27,Female,Employed,Savings,35,2,311548,11,10,13,1,0.62,23,155774.0
+30,Female,Employed,Current,96,1,77724,16,12,9,0,0.66,21,77724.0
+41,Female,Employed,Savings,108,3,26844,9,2,5,0,0.55,7,8948.0
+18,Female,Employed,Savings,155,1,250688,18,13,5,0,0.93,18,250688.0
+38,Male,Self-employed,Savings,101,1,270363,16,10,13,0,0.62,23,270363.0
+48,Male,Employed,Current,171,2,219987,13,9,11,0,0.51,20,109993.5
+39,Male,Employed,Current,162,4,119708,22,5,11,0,0.73,16,29927.0
+48,Female,Self-employed,Current,123,3,86291,8,10,15,1,0.99,25,28763.67
+31,Male,Self-employed,Savings,168,2,140533,13,8,8,0,0.77,16,70266.5
+30,Male,Employed,Savings,52,2,96097,11,12,12,0,0.67,24,48048.5
+30,Female,Employed,Fixed Deposit,111,4,113223,15,11,11,0,0.84,22,28305.75
+24,Female,Employed,Savings,67,4,159277,11,14,8,0,0.98,22,39819.25
+19,Male,Self-employed,Fixed Deposit,55,3,59909,10,8,14,0,0.82,22,19969.67
+34,Female,Employed,Fixed Deposit,122,1,104343,15,7,8,0,0.65,15,104343.0
+33,Female,Employed,Savings,162,1,96651,15,13,10,0,0.67,23,96651.0
+41,Female,Employed,Current,27,2,130404,13,8,9,1,0.75,17,65202.0
+35,Female,Self-employed,Current,128,2,82903,14,7,11,0,0.65,18,41451.5
+43,Female,Self-employed,Savings,35,1,305662,16,5,11,0,0.83,16,305662.0
+61,Female,Self-employed,Current,41,1,14388,13,11,9,0,0.74,20,14388.0
+53,Female,Employed,Savings,79,2,28227,11,10,6,1,0.78,16,14113.5
+51,Female,Self-employed,Savings,70,2,85084,8,11,8,0,0.85,19,42542.0
+29,Male,Employed,Savings,66,2,146708,17,12,15,0,0.86,27,73354.0
+45,Female,Self-employed,Current,68,1,228803,15,12,10,1,0.89,22,228803.0
+18,Male,Employed,Fixed Deposit,142,4,288562,18,9,10,0,0.93,19,72140.5
+42,Male,Employed,Savings,136,1,201397,14,5,14,0,0.67,19,201397.0
+35,Male,Employed,Current,76,1,221122,14,11,9,0,0.79,20,221122.0
+33,Male,Employed,Savings,28,1,23735,19,6,7,0,0.67,13,23735.0
+35,Male,Employed,Savings,65,1,39476,24,6,17,0,0.78,23,39476.0
+45,Male,Self-employed,Savings,123,3,48200,12,2,6,0,0.85,8,16066.67
+44,Male,Self-employed,Savings,126,3,69964,16,8,9,0,0.9,17,23321.33
+23,Female,Employed,Savings,125,1,100802,17,8,7,1,0.65,15,100802.0
+45,Male,Self-employed,Savings,177,1,45345,19,5,12,0,0.79,17,45345.0
+37,Male,Employed,Current,89,4,31591,30,12,9,0,0.51,21,7897.75
+38,Female,Self-employed,Current,82,3,102160,15,8,4,0,0.93,12,34053.33
+23,Male,Employed,Savings,158,1,143940,21,4,10,0,0.96,14,143940.0
+38,Male,Self-employed,Savings,164,1,92989,11,5,11,0,0.94,16,92989.0
+36,Female,Self-employed,Savings,160,3,204552,12,14,9,0,0.76,23,68184.0
+36,Female,Employed,Savings,15,2,123252,13,13,9,0,0.74,22,61626.0
+18,Female,Employed,Current,20,1,411165,15,7,11,0,0.92,18,411165.0
+29,Female,Employed,Current,154,3,241485,19,8,12,0,0.74,20,80495.0
+52,Male,Self-employed,Savings,44,2,205722,10,8,12,1,0.74,20,102861.0
+29,Female,Employed,Savings,45,3,368782,14,7,16,0,0.6,23,122927.33
+26,Female,Employed,Savings,130,2,82169,13,11,6,0,0.76,17,41084.5
+45,Female,Employed,Savings,90,3,420360,19,13,8,0,0.81,21,140120.0
+52,Female,Self-employed,Savings,117,1,410525,20,9,12,0,0.51,21,410525.0
+59,Male,Employed,Savings,175,2,154055,13,10,12,1,0.59,22,77027.5
+34,Male,Employed,Savings,87,1,37848,13,10,10,0,0.98,20,37848.0
+31,Female,Employed,Savings,77,2,126975,19,10,6,0,0.99,16,63487.5
+31,Female,Employed,Savings,65,2,23860,11,12,9,0,0.79,21,11930.0
+35,Female,Employed,Savings,86,3,699715,14,14,9,0,0.57,23,233238.33
+40,Male,Employed,Current,26,1,114205,17,6,5,1,0.91,11,114205.0
+36,Female,Employed,Fixed Deposit,28,1,28067,16,8,10,1,0.65,18,28067.0
+20,Male,Self-employed,Savings,136,3,20586,13,4,6,0,0.58,10,6862.0
+46,Female,Employed,Savings,168,1,342317,21,12,4,0,0.54,16,342317.0
+38,Male,Employed,Savings,154,3,51066,26,12,8,0,0.64,20,17022.0
+59,Male,Unemployed,Fixed Deposit,128,2,167382,14,10,7,0,0.98,17,83691.0
+28,Male,Employed,Current,48,2,1288,13,3,8,1,0.82,11,644.0
+40,Female,Self-employed,Current,132,4,160076,16,12,11,0,0.64,23,40019.0
+18,Male,Employed,Savings,148,3,38920,10,9,7,0,0.59,16,12973.33
+22,Male,Employed,Savings,51,3,284447,16,11,6,1,0.66,17,94815.67
+33,Female,Unemployed,Fixed Deposit,57,2,66114,20,11,12,0,0.9,23,33057.0
+33,Female,Self-employed,Fixed Deposit,32,2,195171,16,7,16,0,0.74,23,97585.5
+35,Male,Employed,Savings,17,4,28535,13,9,11,0,0.7,20,7133.75
+25,Male,Employed,Current,54,3,19340,8,7,9,0,0.8,16,6446.67
+18,Male,Employed,Savings,44,1,58014,9,6,12,0,0.6,18,58014.0
+35,Female,Employed,Savings,101,1,27808,19,6,12,0,0.67,18,27808.0
+45,Male,Self-employed,Savings,83,1,29355,15,14,10,0,0.81,24,29355.0
+43,Male,Employed,Savings,42,1,17278,17,12,10,0,0.56,22,17278.0
+50,Female,Employed,Savings,161,3,155679,14,7,16,0,0.8,23,51893.0
+47,Male,Self-employed,Savings,34,2,12177,16,9,10,0,1.0,19,6088.5
+52,Male,Employed,Savings,40,2,46013,13,6,11,0,0.5,17,23006.5
+33,Male,Employed,Savings,94,1,285803,13,9,8,0,0.58,17,285803.0
+27,Male,Employed,Current,162,4,51322,13,9,17,0,0.6,26,12830.5
+32,Female,Employed,Savings,180,1,69686,20,6,13,0,0.92,19,69686.0
+47,Male,Employed,Savings,126,2,506447,9,6,12,1,0.78,18,253223.5
+31,Male,Employed,Savings,30,1,141155,19,9,9,0,0.7,18,141155.0
+40,Male,Employed,Savings,49,1,88628,12,4,11,0,0.9,15,88628.0
+43,Female,Self-employed,Current,35,1,26451,6,5,7,0,0.54,12,26451.0
+55,Female,Self-employed,Savings,166,3,119429,14,9,11,1,0.65,20,39809.67
+42,Female,Self-employed,Savings,171,2,124846,16,10,18,0,0.86,28,62423.0
+30,Female,Employed,Current,178,1,229481,17,9,10,0,0.68,19,229481.0
+38,Female,Employed,Savings,105,2,5407,21,10,12,0,0.71,22,2703.5
+33,Female,Self-employed,Savings,28,1,305709,12,16,16,0,0.78,32,305709.0
+39,Male,Employed,Savings,151,2,80421,13,8,9,0,0.74,17,40210.5
+22,Female,Unemployed,Fixed Deposit,69,2,64178,18,2,12,0,0.62,14,32089.0
+32,Male,Employed,Savings,165,2,35678,13,8,9,0,0.99,17,17839.0
+47,Female,Employed,Current,115,1,102097,16,9,6,0,0.64,15,102097.0
+38,Male,Self-employed,Current,178,2,212465,22,5,11,0,0.95,16,106232.5
+34,Male,Self-employed,Current,88,2,273146,18,2,7,0,0.51,9,136573.0
+59,Female,Employed,Current,142,1,186757,19,9,16,0,0.93,25,186757.0
+18,Male,Employed,Savings,86,1,70247,13,8,7,0,0.71,15,70247.0
+55,Male,Employed,Savings,26,1,184608,17,9,8,0,0.99,17,184608.0
+52,Female,Employed,Savings,67,2,115805,13,4,13,0,0.81,17,57902.5
+28,Male,Employed,Current,168,3,88655,13,7,13,0,0.83,20,29551.67
+38,Male,Unemployed,Savings,36,2,83915,14,11,10,1,0.77,21,41957.5
+34,Female,Employed,Current,76,2,23149,10,7,7,0,0.71,14,11574.5
+45,Male,Employed,Savings,41,1,90889,17,11,11,0,0.78,22,90889.0
+27,Female,Self-employed,Current,173,1,173934,14,9,8,2,0.69,17,173934.0
+22,Female,Employed,Savings,97,1,23929,15,6,12,0,0.65,18,23929.0
+29,Female,Employed,Savings,79,1,30375,17,11,15,0,0.73,26,30375.0
+27,Female,Employed,Savings,130,2,230149,13,7,18,0,0.84,25,115074.5
+33,Male,Unemployed,Savings,148,1,395180,16,6,8,0,0.64,14,395180.0
+41,Female,Employed,Savings,158,1,111818,17,12,14,0,0.8,26,111818.0
+43,Female,Employed,Savings,128,1,105888,14,12,13,0,0.89,25,105888.0
+28,Male,Employed,Savings,63,4,500,11,14,8,0,0.6,22,125.0
+20,Female,Employed,Current,179,3,40030,21,11,14,0,0.8,25,13343.33
+40,Male,Employed,Current,80,1,205030,21,6,13,0,0.61,19,205030.0
+37,Male,Self-employed,Savings,101,2,55395,10,8,13,0,0.67,21,27697.5
+40,Male,Employed,Fixed Deposit,18,2,1337,11,6,11,0,0.54,17,668.5
+40,Male,Employed,Current,89,4,16136,11,6,5,0,0.81,11,4034.0
+20,Female,Self-employed,Savings,77,1,15174,20,5,10,0,0.74,15,15174.0
+19,Male,Unemployed,Savings,77,2,107696,21,12,12,0,0.88,24,53848.0
+34,Female,Self-employed,Savings,135,1,437899,13,7,7,0,0.65,14,437899.0
+38,Female,Employed,Savings,171,1,108006,16,12,11,0,0.74,23,108006.0
+33,Female,Self-employed,Current,169,2,40478,15,5,10,0,0.83,15,20239.0
+23,Female,Employed,Savings,139,3,10674,14,6,6,0,0.74,12,3558.0
+31,Female,Unemployed,Savings,51,3,140548,7,6,9,1,0.65,15,46849.33
+37,Male,Employed,Current,72,2,21389,11,8,8,0,0.76,16,10694.5
+47,Male,Self-employed,Savings,69,1,67386,9,5,13,1,0.94,18,67386.0
+21,Female,Employed,Current,31,3,5770,14,6,7,0,0.54,13,1923.33
+26,Male,Employed,Current,144,1,143707,14,11,13,0,0.5,24,143707.0
+49,Female,Employed,Savings,73,2,70510,15,7,10,0,0.64,17,35255.0
+32,Male,Employed,Current,174,1,35327,18,9,11,0,0.78,20,35327.0
+25,Male,Employed,Savings,138,2,37179,13,8,10,0,0.51,18,18589.5
+30,Male,Employed,Savings,126,1,88560,12,7,11,0,0.69,18,88560.0
+51,Male,Employed,Savings,91,1,364201,17,8,8,0,0.67,16,364201.0
+33,Male,Self-employed,Savings,180,2,36095,18,9,7,0,0.67,16,18047.5
+19,Male,Self-employed,Savings,165,2,197618,16,6,12,1,0.87,18,98809.0
+42,Female,Self-employed,Savings,25,1,112499,19,6,12,3,0.98,18,112499.0
+31,Male,Employed,Savings,74,1,261206,14,7,10,0,0.83,17,261206.0
+33,Male,Employed,Savings,84,1,112230,20,9,7,0,0.55,16,112230.0
+48,Male,Employed,Current,17,1,62528,17,7,9,0,0.93,16,62528.0
+38,Male,Employed,Current,154,1,32357,14,7,6,0,0.87,13,32357.0
+35,Male,Employed,Savings,128,2,47686,17,10,4,0,0.93,14,23843.0
+62,Female,Employed,Savings,76,3,179442,20,7,8,0,0.65,15,59814.0
+20,Female,Employed,Savings,27,1,89620,14,12,10,0,0.58,22,89620.0
+36,Female,Employed,Current,128,1,92124,13,7,14,1,0.89,21,92124.0
+42,Male,Employed,Fixed Deposit,40,1,93292,18,5,10,0,0.74,15,93292.0
+35,Male,Employed,Savings,28,1,260721,19,18,18,0,0.52,36,260721.0
+43,Female,Self-employed,Fixed Deposit,148,1,41429,16,14,7,0,0.52,21,41429.0
+34,Male,Employed,Savings,46,2,199034,16,14,10,0,0.65,24,99517.0
+36,Male,Self-employed,Savings,80,2,224863,7,5,6,0,0.86,11,112431.5
+18,Male,Self-employed,Savings,52,2,58529,16,6,10,0,0.86,16,29264.5
+54,Male,Employed,Savings,103,2,30773,12,5,19,0,0.83,24,15386.5
+20,Male,Employed,Current,76,1,12434,9,8,5,0,0.78,13,12434.0
+29,Female,Unemployed,Savings,135,2,54515,18,9,8,0,0.93,17,27257.5
+28,Male,Employed,Savings,56,1,56490,19,7,12,0,0.67,19,56490.0
+22,Male,Self-employed,Savings,90,1,68563,13,7,12,0,0.62,19,68563.0
+34,Female,Employed,Current,92,1,37988,12,6,6,0,0.85,12,37988.0
+32,Female,Employed,Savings,82,2,6507,15,7,6,0,0.67,13,3253.5
+42,Male,Self-employed,Savings,156,3,10158,17,5,12,3,0.87,17,3386.0
+40,Female,Employed,Savings,168,2,219299,18,5,8,0,0.89,13,109649.5
+44,Female,Employed,Savings,151,4,78067,17,11,7,0,0.82,18,19516.75
+25,Male,Employed,Current,103,2,25062,19,4,11,0,0.78,15,12531.0
+28,Female,Self-employed,Savings,153,1,113229,12,6,11,0,0.87,17,113229.0
+29,Male,Employed,Current,57,2,27536,14,9,8,0,0.74,17,13768.0
+34,Female,Employed,Fixed Deposit,165,1,358023,13,8,18,1,0.98,26,358023.0
+18,Female,Self-employed,Savings,33,1,11189,21,10,12,0,0.91,22,11189.0
+55,Female,Employed,Fixed Deposit,62,1,120316,15,11,3,0,0.92,14,120316.0
+31,Male,Employed,Savings,70,1,176170,14,7,18,0,0.76,25,176170.0
+47,Female,Self-employed,Savings,64,1,404320,27,4,7,0,0.62,11,404320.0
+27,Female,Employed,Fixed Deposit,134,2,53457,13,6,12,0,0.62,18,26728.5
+19,Male,Self-employed,Fixed Deposit,135,1,117000,7,9,2,0,0.57,11,117000.0
+27,Female,Self-employed,Current,35,4,51494,22,5,12,0,0.9,17,12873.5
+46,Female,Unemployed,Savings,118,1,16190,14,6,12,0,0.78,18,16190.0
+41,Male,Employed,Current,162,3,106106,10,7,5,0,0.86,12,35368.67
+32,Female,Employed,Savings,166,2,70563,16,9,8,0,0.69,17,35281.5
+47,Male,Self-employed,Fixed Deposit,84,1,72208,13,6,14,1,0.69,20,72208.0
+21,Female,Employed,Current,88,2,75355,20,6,6,0,0.95,12,37677.5
+20,Female,Employed,Savings,99,3,29106,19,8,12,1,0.6,20,9702.0
+37,Female,Employed,Current,25,3,17308,15,7,9,0,0.64,16,5769.33
+33,Female,Self-employed,Savings,76,4,502558,12,13,11,0,0.56,24,125639.5
+36,Male,Employed,Savings,109,1,485136,21,11,14,0,0.73,25,485136.0
+58,Female,Employed,Savings,44,3,172712,11,5,8,0,0.64,13,57570.67
+22,Female,Unemployed,Current,105,2,48721,19,10,11,0,0.63,21,24360.5
+18,Female,Self-employed,Savings,76,3,203053,16,12,11,0,0.68,23,67684.33
+35,Female,Employed,Fixed Deposit,122,4,31648,16,16,9,0,0.98,25,7912.0
+50,Female,Employed,Savings,141,3,423355,9,10,15,0,0.81,25,141118.33
+33,Male,Self-employed,Savings,27,2,284528,17,7,7,0,0.5,14,142264.0
+30,Male,Employed,Current,87,2,22058,17,11,12,0,0.61,23,11029.0
+27,Female,Employed,Savings,174,1,310870,13,9,7,0,0.55,16,310870.0
+48,Female,Self-employed,Savings,88,1,157008,13,10,7,0,0.6,17,157008.0
+50,Male,Self-employed,Savings,94,1,171397,9,7,10,0,0.52,17,171397.0
+43,Female,Unemployed,Savings,23,2,58355,23,7,14,0,0.98,21,29177.5
+49,Female,Employed,Current,19,4,94927,14,8,12,0,0.59,20,23731.75
+39,Male,Unemployed,Savings,16,1,83458,16,3,14,1,0.62,17,83458.0
+37,Male,Employed,Current,157,1,126011,22,9,7,0,0.85,16,126011.0
+37,Male,Employed,Current,16,2,464471,15,10,12,0,0.83,22,232235.5
+27,Male,Employed,Savings,21,1,382613,19,11,10,0,0.79,21,382613.0
+55,Female,Unemployed,Fixed Deposit,17,2,105369,14,2,12,0,0.86,14,52684.5
+18,Male,Employed,Savings,84,3,162666,14,5,9,1,0.67,14,54222.0
+35,Male,Employed,Savings,108,1,151986,13,6,5,0,0.91,11,151986.0
+46,Female,Self-employed,Current,98,1,401267,16,10,10,0,0.61,20,401267.0
+32,Female,Employed,Current,94,3,711781,16,12,13,1,0.55,25,237260.33
+44,Female,Employed,Savings,142,1,10868,15,7,9,0,0.89,16,10868.0
+57,Female,Employed,Current,37,2,74263,18,7,11,0,0.83,18,37131.5
+48,Male,Unemployed,Fixed Deposit,172,1,476414,21,12,10,0,0.64,22,476414.0
+38,Female,Self-employed,Savings,53,2,172997,18,9,7,0,0.79,16,86498.5
+37,Male,Self-employed,Savings,151,1,134944,11,8,9,0,0.98,17,134944.0
+31,Female,Unemployed,Current,66,1,123849,17,7,9,0,0.84,16,123849.0
+22,Male,Unemployed,Savings,48,2,24216,21,7,8,0,0.58,15,12108.0
+39,Male,Self-employed,Savings,47,2,313475,17,9,13,0,0.54,22,156737.5
+18,Male,Self-employed,Current,98,2,450160,11,13,6,0,0.68,19,225080.0
+28,Female,Employed,Current,76,1,233694,17,2,8,2,0.86,10,233694.0
+21,Female,Employed,Savings,74,1,35653,11,8,10,0,0.91,18,35653.0
+18,Male,Unemployed,Savings,67,1,501085,15,11,9,0,0.81,20,501085.0
+26,Male,Self-employed,Savings,13,4,236564,15,9,8,0,0.55,17,59141.0
+40,Male,Employed,Savings,145,1,125563,17,8,13,1,0.91,21,125563.0
+38,Female,Self-employed,Savings,124,3,56148,16,10,13,1,0.64,23,18716.0
+43,Female,Employed,Fixed Deposit,103,2,284438,18,6,12,0,0.78,18,142219.0
+37,Female,Employed,Savings,61,4,380626,13,7,10,0,0.51,17,95156.5
+32,Female,Employed,Current,35,1,14130,16,5,14,0,0.89,19,14130.0
+57,Female,Unemployed,Savings,102,3,67734,15,12,6,0,0.96,18,22578.0
+59,Female,Employed,Current,134,1,73241,15,6,7,0,0.87,13,73241.0
+39,Male,Self-employed,Savings,111,1,44861,15,9,10,0,0.89,19,44861.0
+53,Male,Self-employed,Current,35,2,71154,14,7,12,1,0.54,19,35577.0
+18,Male,Self-employed,Savings,121,1,28676,16,7,8,0,0.82,15,28676.0
+37,Female,Self-employed,Savings,81,3,57670,17,10,11,0,0.61,21,19223.33
+43,Female,Unemployed,Savings,90,3,22458,14,6,9,0,0.61,15,7486.0
+36,Male,Self-employed,Savings,45,1,13171,14,6,10,0,0.58,16,13171.0
+18,Male,Unemployed,Savings,31,2,269569,16,5,7,0,0.9,12,134784.5
+23,Male,Employed,Savings,125,1,18965,16,6,11,0,0.65,17,18965.0
+37,Female,Employed,Current,84,2,35352,12,8,6,0,0.74,14,17676.0
+43,Male,Self-employed,Current,123,4,6570,18,9,5,0,0.91,14,1642.5
+44,Female,Self-employed,Savings,19,2,55709,15,10,7,0,0.88,17,27854.5
+23,Male,Self-employed,Savings,49,1,29372,14,12,13,0,0.8,25,29372.0
+44,Female,Self-employed,Current,155,3,66853,14,13,8,0,0.93,21,22284.33
+29,Male,Employed,Savings,109,4,21513,9,6,14,0,0.72,20,5378.25
+21,Female,Self-employed,Savings,44,1,175084,18,11,8,0,0.59,19,175084.0
+36,Female,Self-employed,Current,116,3,237194,10,10,12,0,0.54,22,79064.67
+44,Female,Employed,Savings,111,2,78501,11,10,12,0,0.97,22,39250.5
+33,Female,Employed,Current,62,4,159327,16,5,6,1,0.68,11,39831.75
+18,Female,Employed,Savings,21,3,42963,12,6,8,0,0.88,14,14321.0
+27,Female,Unemployed,Current,21,3,102771,16,7,11,0,0.65,18,34257.0
+28,Female,Unemployed,Savings,89,3,52102,14,1,7,1,0.76,8,17367.33
+37,Female,Employed,Current,162,1,79300,29,9,14,0,0.77,23,79300.0
+41,Female,Self-employed,Current,174,1,62031,16,6,9,1,0.61,15,62031.0
+31,Male,Employed,Current,141,1,17520,14,5,12,0,0.55,17,17520.0
+41,Male,Employed,Current,161,1,500,17,9,3,1,0.57,12,500.0
+39,Female,Self-employed,Fixed Deposit,40,2,15929,18,10,6,0,0.88,16,7964.5
+28,Female,Self-employed,Current,168,1,382681,16,2,15,1,0.51,17,382681.0
+28,Female,Self-employed,Savings,106,2,500,21,16,13,0,0.97,29,250.0
+37,Female,Employed,Current,22,3,35900,22,12,13,0,0.63,25,11966.67
+23,Female,Employed,Savings,74,3,1120,14,8,11,0,0.69,19,373.33
+41,Female,Self-employed,Savings,167,2,119639,19,9,10,1,0.81,19,59819.5
+26,Female,Self-employed,Savings,129,3,319499,16,7,11,0,0.88,18,106499.67
+46,Female,Employed,Current,108,4,15985,13,6,10,0,0.64,16,3996.25
+31,Male,Employed,Savings,144,1,3376,12,7,11,1,0.64,18,3376.0
+26,Female,Employed,Savings,59,2,439575,13,12,14,0,0.53,26,219787.5
+39,Male,Employed,Savings,94,4,28068,13,9,10,0,0.79,19,7017.0
+29,Male,Employed,Savings,33,1,97571,14,7,15,0,0.84,22,97571.0
+28,Female,Employed,Savings,37,1,20774,21,10,8,0,0.93,18,20774.0
+37,Male,Unemployed,Savings,110,3,164445,22,3,8,0,0.9,11,54815.0
+27,Female,Employed,Savings,174,1,101125,19,7,5,0,0.94,12,101125.0
+45,Male,Self-employed,Savings,169,2,163461,17,9,11,0,0.53,20,81730.5
+39,Male,Employed,Savings,180,4,431748,19,7,6,0,0.91,13,107937.0
+45,Female,Self-employed,Current,17,1,50759,13,8,11,0,0.8,19,50759.0
+50,Female,Self-employed,Savings,77,1,3838,17,11,11,0,0.84,22,3838.0
+45,Male,Self-employed,Savings,92,1,89235,20,6,11,0,0.8,17,89235.0
+32,Female,Self-employed,Current,106,1,92783,19,7,11,1,0.79,18,92783.0
+37,Male,Employed,Current,123,3,176408,12,5,10,0,0.61,15,58802.67
+52,Female,Employed,Savings,128,4,6679,17,7,4,0,0.99,11,1669.75
+29,Female,Employed,Current,160,4,58422,18,8,8,0,0.9,16,14605.5
+44,Male,Employed,Current,72,1,55487,18,11,15,1,0.95,26,55487.0
+37,Female,Employed,Savings,54,4,403429,14,10,8,0,0.62,18,100857.25
+40,Male,Employed,Savings,119,2,337775,14,9,4,0,0.78,13,168887.5
+31,Male,Employed,Savings,156,1,145010,12,11,9,1,0.7,20,145010.0
+30,Male,Employed,Savings,71,1,26399,10,4,3,0,0.53,7,26399.0
+32,Male,Employed,Savings,164,1,25944,17,9,11,0,0.55,20,25944.0
+25,Female,Unemployed,Savings,132,2,368664,13,7,12,0,0.64,19,184332.0
+29,Female,Self-employed,Savings,59,2,199861,14,7,14,0,0.6,21,99930.5
+29,Female,Employed,Savings,177,1,436009,16,12,11,0,0.69,23,436009.0
+50,Male,Employed,Savings,19,2,500,15,2,8,1,0.72,10,250.0
+56,Male,Employed,Savings,173,1,228786,13,9,8,1,0.75,17,228786.0
+36,Female,Employed,Savings,136,3,8176,13,9,16,0,0.92,25,2725.33
+38,Female,Employed,Fixed Deposit,161,1,504275,17,6,13,0,0.72,19,504275.0
+42,Male,Self-employed,Current,130,2,22233,14,7,7,0,0.7,14,11116.5
+35,Female,Self-employed,Savings,28,3,27635,12,5,6,1,0.66,11,9211.67
+34,Male,Employed,Savings,115,1,75229,14,7,15,0,0.93,22,75229.0
+18,Male,Employed,Current,58,2,21137,14,4,14,0,0.95,18,10568.5
+19,Male,Employed,Current,76,3,72895,15,7,15,0,0.69,22,24298.33
+34,Female,Employed,Savings,139,1,72519,11,8,6,0,0.85,14,72519.0
+29,Male,Employed,Savings,166,1,7049,20,10,11,0,0.78,21,7049.0
+47,Female,Self-employed,Savings,171,2,102800,17,9,10,0,0.53,19,51400.0
+28,Male,Self-employed,Savings,21,1,13953,20,10,14,0,0.99,24,13953.0
+38,Male,Self-employed,Savings,147,3,150711,13,5,9,0,0.72,14,50237.0
+30,Male,Employed,Savings,98,1,152918,12,9,10,0,0.7,19,152918.0
+32,Female,Self-employed,Current,117,2,103762,14,9,10,0,0.68,19,51881.0
+36,Female,Self-employed,Current,173,3,235914,14,5,14,1,0.98,19,78638.0
+24,Female,Employed,Fixed Deposit,158,3,223761,14,6,8,0,0.7,14,74587.0
+24,Female,Employed,Savings,116,1,208858,10,15,7,0,0.85,22,208858.0
+27,Male,Self-employed,Savings,155,2,147709,18,11,10,1,0.78,21,73854.5
+18,Male,Employed,Savings,123,1,63040,13,7,12,0,0.69,19,63040.0
+33,Male,Self-employed,Fixed Deposit,128,2,356100,10,5,5,1,0.7,10,178050.0
+52,Female,Employed,Current,32,1,143693,17,9,12,0,0.77,21,143693.0
+42,Male,Employed,Fixed Deposit,159,2,39513,19,9,6,0,0.72,15,19756.5
+46,Female,Employed,Current,72,4,48079,16,11,16,0,0.96,27,12019.75
+31,Female,Self-employed,Savings,164,1,145038,18,3,16,0,0.54,19,145038.0
+39,Male,Self-employed,Savings,176,1,96636,11,6,12,1,0.77,18,96636.0
+33,Male,Unemployed,Current,85,1,26833,13,8,15,0,0.64,23,26833.0
+33,Male,Employed,Savings,178,3,192234,18,4,11,0,0.72,15,64078.0
+25,Male,Self-employed,Savings,93,4,256604,16,7,11,0,0.61,18,64151.0
+41,Male,Self-employed,Current,86,1,78597,17,13,10,0,0.91,23,78597.0
+29,Male,Self-employed,Savings,86,2,36944,15,8,12,0,0.8,20,18472.0
+45,Male,Employed,Savings,156,2,52870,19,7,13,0,0.79,20,26435.0
+59,Male,Self-employed,Savings,13,1,128401,19,4,7,0,0.51,11,128401.0
+32,Female,Employed,Savings,91,3,82442,20,10,12,0,0.98,22,27480.67
+36,Male,Employed,Savings,92,1,169280,17,10,8,0,0.61,18,169280.0
+47,Female,Employed,Savings,107,2,100705,16,7,11,0,0.98,18,50352.5
+25,Male,Self-employed,Current,177,2,286671,15,13,9,0,0.57,22,143335.5
+38,Male,Self-employed,Savings,115,3,194483,15,6,12,0,0.57,18,64827.67
+39,Male,Employed,Current,168,1,96538,15,7,18,0,0.58,25,96538.0
+46,Female,Employed,Current,52,1,49933,15,10,7,1,0.79,17,49933.0
+44,Female,Self-employed,Current,60,1,83279,11,10,6,0,0.66,16,83279.0
+28,Female,Self-employed,Current,179,3,163326,18,6,13,0,0.63,19,54442.0
+28,Female,Employed,Savings,47,1,140014,14,9,6,0,0.95,15,140014.0
+48,Female,Employed,Savings,166,2,49005,16,13,9,0,0.97,22,24502.5
+46,Male,Self-employed,Current,48,1,24778,14,7,8,0,0.7,15,24778.0
+31,Female,Unemployed,Current,83,1,79025,10,5,11,0,0.61,16,79025.0
+47,Female,Self-employed,Savings,110,1,390799,12,7,2,1,0.63,9,390799.0
+18,Male,Self-employed,Savings,77,1,489140,16,10,7,0,0.51,17,489140.0
+39,Female,Self-employed,Current,52,2,449379,15,7,5,0,0.83,12,224689.5
+46,Female,Employed,Current,52,2,18861,8,8,11,0,0.65,19,9430.5
+21,Female,Employed,Current,85,2,124806,18,4,12,0,0.51,16,62403.0
+35,Female,Unemployed,Current,63,2,300908,10,4,14,0,0.95,18,150454.0
+35,Male,Employed,Savings,50,4,390676,12,5,16,0,0.83,21,97669.0
+45,Male,Employed,Savings,92,2,331114,20,4,20,1,0.83,24,165557.0
+32,Male,Employed,Savings,101,1,22894,15,9,10,0,0.59,19,22894.0
+28,Female,Self-employed,Fixed Deposit,129,1,119875,13,6,15,0,0.81,21,119875.0
+39,Male,Employed,Current,35,4,20051,16,7,6,1,0.76,13,5012.75
+18,Male,Self-employed,Current,31,2,60883,22,12,10,0,0.95,22,30441.5
+38,Male,Employed,Savings,53,1,58010,12,5,10,1,0.59,15,58010.0
+31,Male,Self-employed,Fixed Deposit,150,1,194059,20,6,10,0,0.58,16,194059.0
+31,Female,Self-employed,Current,32,1,55021,20,6,12,1,0.58,18,55021.0
+39,Female,Employed,Savings,142,2,18744,20,4,15,0,0.97,19,9372.0
+18,Female,Employed,Current,88,1,67434,14,3,5,0,0.53,8,67434.0
+23,Female,Employed,Savings,17,4,22503,12,7,14,0,0.93,21,5625.75
+27,Female,Employed,Fixed Deposit,144,1,44653,12,8,11,1,0.59,19,44653.0
+32,Male,Self-employed,Savings,124,3,18590,15,9,12,0,0.87,21,6196.67
+19,Male,Self-employed,Savings,154,2,151547,16,8,7,0,0.97,15,75773.5
+45,Female,Unemployed,Savings,38,1,139556,17,4,7,1,0.96,11,139556.0
+37,Female,Employed,Current,126,2,139213,19,5,15,0,0.79,20,69606.5
+51,Male,Self-employed,Current,51,1,498778,15,6,9,0,0.76,15,498778.0
+38,Male,Self-employed,Savings,175,2,360726,18,10,15,0,0.97,25,180363.0
+26,Female,Employed,Savings,155,2,25822,26,8,4,0,0.54,12,12911.0
+50,Male,Employed,Fixed Deposit,116,2,26114,18,9,8,0,0.85,17,13057.0
+18,Male,Employed,Savings,135,4,102712,14,11,8,1,0.74,19,25678.0
+20,Female,Employed,Savings,131,2,65015,18,12,16,2,0.73,28,32507.5
+35,Female,Employed,Current,47,2,79797,21,7,15,0,0.69,22,39898.5
+34,Male,Self-employed,Savings,111,1,69393,14,11,10,0,0.53,21,69393.0
+46,Male,Employed,Savings,22,2,396256,11,6,8,0,0.65,14,198128.0
+39,Female,Self-employed,Current,159,1,68237,7,6,12,1,0.91,18,68237.0
+32,Female,Employed,Savings,86,3,339414,12,6,7,0,0.56,13,113138.0
+24,Female,Employed,Savings,60,2,1410,22,5,9,0,0.59,14,705.0
+39,Male,Employed,Current,13,1,291438,10,5,10,0,0.65,15,291438.0
+48,Male,Self-employed,Savings,120,2,364945,22,9,12,1,0.59,21,182472.5
+40,Male,Self-employed,Savings,71,2,20776,19,11,9,0,0.67,20,10388.0
+40,Female,Self-employed,Savings,35,1,54023,16,10,10,0,0.77,20,54023.0
+18,Male,Unemployed,Fixed Deposit,56,3,81151,9,5,12,0,0.73,17,27050.33
+50,Female,Employed,Savings,119,1,3107,13,10,7,0,0.68,17,3107.0
+23,Female,Self-employed,Current,74,1,78922,16,8,9,1,0.82,17,78922.0
+24,Female,Unemployed,Savings,49,2,39173,9,7,5,0,0.56,12,19586.5
+46,Male,Employed,Current,16,3,4743,14,10,9,0,0.8,19,1581.0
+27,Male,Employed,Current,171,3,84280,16,7,11,0,0.82,18,28093.33
+49,Female,Self-employed,Fixed Deposit,153,2,224434,18,6,17,1,0.67,23,112217.0
+49,Male,Self-employed,Savings,62,3,216813,15,9,11,0,0.82,20,72271.0
+42,Male,Self-employed,Savings,103,1,71823,13,9,9,0,0.83,18,71823.0
+51,Male,Unemployed,Savings,68,3,46166,14,9,12,0,0.99,21,15388.67
+23,Female,Employed,Savings,125,1,35001,13,8,16,1,0.77,24,35001.0
+41,Male,Employed,Current,127,3,33828,9,8,14,0,0.84,22,11276.0
+27,Male,Unemployed,Savings,95,3,4719,16,7,9,0,0.68,16,1573.0
+53,Male,Employed,Current,29,2,285216,16,12,9,0,0.77,21,142608.0
+24,Female,Employed,Current,95,2,62502,10,8,11,0,0.66,19,31251.0
+27,Female,Employed,Savings,140,3,30411,16,6,9,0,0.85,15,10137.0
+24,Male,Employed,Savings,158,2,163944,12,13,8,0,0.69,21,81972.0
+37,Male,Self-employed,Current,27,1,802251,11,9,8,0,0.87,17,802251.0
+18,Female,Employed,Savings,38,2,182128,15,7,12,1,1.0,19,91064.0
+43,Female,Employed,Fixed Deposit,141,3,77735,15,9,7,0,0.96,16,25911.67
+35,Female,Employed,Current,136,2,112378,18,8,9,0,0.87,17,56189.0
+59,Female,Self-employed,Savings,133,4,157270,13,7,15,0,0.98,22,39317.5
+49,Female,Unemployed,Savings,165,1,298816,9,12,15,0,0.7,27,298816.0
+32,Female,Employed,Savings,115,1,136952,15,8,10,0,0.75,18,136952.0
+39,Female,Self-employed,Current,56,2,203505,9,1,15,0,0.75,16,101752.5
+50,Male,Self-employed,Savings,167,2,27821,20,10,13,1,0.99,23,13910.5
+18,Male,Employed,Current,27,4,128950,15,6,15,0,0.74,21,32237.5
+32,Male,Unemployed,Savings,178,1,27017,16,5,6,0,0.98,11,27017.0
+18,Male,Employed,Savings,13,1,707803,16,9,5,0,0.86,14,707803.0
+62,Male,Employed,Savings,146,3,216407,12,6,6,0,0.75,12,72135.67
+56,Male,Self-employed,Savings,106,3,431575,15,6,14,0,0.84,20,143858.33
+26,Female,Employed,Savings,179,1,24344,16,15,5,0,0.58,20,24344.0
+42,Male,Employed,Current,71,3,101354,9,6,10,0,0.8,16,33784.67
+27,Male,Employed,Savings,111,2,60248,13,9,7,1,0.7,16,30124.0
+41,Male,Employed,Fixed Deposit,121,1,21302,16,10,15,0,0.66,25,21302.0
+30,Male,Employed,Savings,144,1,17247,12,7,16,0,0.74,23,17247.0
+54,Male,Employed,Savings,171,2,39564,12,12,15,1,0.84,27,19782.0
+27,Male,Employed,Savings,36,3,312241,11,7,9,0,0.87,16,104080.33
+41,Female,Unemployed,Savings,110,3,32277,13,5,13,0,0.6,18,10759.0
+55,Female,Employed,Current,29,2,104559,17,10,6,0,0.83,16,52279.5
+37,Male,Employed,Savings,123,1,9014,21,8,18,0,0.71,26,9014.0
+41,Male,Employed,Current,167,2,378881,11,7,14,1,0.63,21,189440.5
+31,Female,Employed,Savings,108,4,1542,16,11,8,1,0.96,19,385.5
+44,Female,Self-employed,Current,89,4,8520,14,4,8,0,0.97,12,2130.0
+39,Female,Self-employed,Fixed Deposit,112,1,2436,15,6,10,0,0.83,16,2436.0
+40,Male,Self-employed,Savings,158,2,90967,14,4,5,0,0.51,9,45483.5
+40,Male,Self-employed,Savings,144,4,99098,16,8,9,0,0.95,17,24774.5
+39,Female,Unemployed,Fixed Deposit,52,2,64440,19,14,10,2,0.87,24,32220.0
+34,Female,Self-employed,Current,129,1,475404,12,5,11,0,0.87,16,475404.0
+18,Male,Self-employed,Current,137,2,141742,19,8,14,0,0.62,22,70871.0
+35,Male,Self-employed,Savings,69,2,416681,17,11,14,0,0.92,25,208340.5
+36,Male,Unemployed,Fixed Deposit,123,2,356056,16,5,12,0,0.65,17,178028.0
+38,Male,Employed,Savings,55,2,10397,13,7,11,0,0.71,18,5198.5
+51,Male,Employed,Current,25,4,444906,16,7,17,0,0.76,24,111226.5
+49,Male,Employed,Current,76,1,175505,22,8,8,0,0.81,16,175505.0
+45,Male,Self-employed,Savings,66,1,169570,12,11,10,0,0.57,21,169570.0
+39,Male,Employed,Current,102,2,42812,21,12,15,0,0.85,27,21406.0
+37,Male,Employed,Fixed Deposit,68,2,291486,20,12,11,0,0.51,23,145743.0
+36,Male,Self-employed,Current,100,2,79327,18,4,10,2,0.82,14,39663.5
+27,Male,Employed,Savings,29,1,21050,18,3,5,0,0.91,8,21050.0
+36,Female,Self-employed,Fixed Deposit,44,1,126686,13,12,11,2,0.7,23,126686.0
+35,Female,Employed,Fixed Deposit,157,2,266094,13,9,8,0,0.68,17,133047.0
+38,Female,Unemployed,Savings,143,2,44185,12,5,5,0,0.73,10,22092.5
+42,Female,Employed,Savings,82,2,306151,15,12,4,0,0.84,16,153075.5
+64,Male,Employed,Current,61,2,423514,6,9,7,0,0.58,16,211757.0
+54,Female,Self-employed,Fixed Deposit,75,1,195303,9,8,9,0,0.73,17,195303.0
+55,Male,Employed,Current,29,2,19949,16,10,14,0,0.88,24,9974.5
+34,Female,Employed,Savings,104,2,167506,16,7,13,0,0.89,20,83753.0
+34,Male,Self-employed,Current,155,2,21334,15,5,13,0,0.85,18,10667.0
+25,Male,Self-employed,Savings,24,3,393566,22,11,13,0,0.98,24,131188.67
+51,Male,Employed,Savings,122,1,221898,14,7,14,0,0.69,21,221898.0
+41,Female,Self-employed,Savings,126,1,119949,17,7,6,0,0.86,13,119949.0
+24,Male,Employed,Savings,98,2,34394,15,3,5,0,0.93,8,17197.0
+50,Female,Employed,Current,161,1,55219,13,4,14,0,0.74,18,55219.0
+18,Male,Unemployed,Current,144,2,124565,14,10,11,1,0.82,21,62282.5
+33,Female,Employed,Savings,159,2,547154,14,14,14,0,0.59,28,273577.0
+38,Female,Employed,Savings,65,4,76819,25,6,11,0,0.94,17,19204.75
+47,Female,Employed,Savings,76,1,552038,17,11,6,1,0.65,17,552038.0
+45,Male,Employed,Savings,46,1,37457,20,7,11,0,0.68,18,37457.0
+32,Female,Employed,Savings,179,4,54683,7,10,15,0,0.62,25,13670.75
+41,Male,Employed,Savings,119,2,94164,8,8,8,0,0.76,16,47082.0
+49,Female,Employed,Savings,140,2,531242,11,3,13,0,0.53,16,265621.0
+51,Male,Unemployed,Current,58,1,101894,17,5,7,1,0.74,12,101894.0
+53,Male,Employed,Current,80,2,142666,16,13,9,0,0.74,22,71333.0
+23,Male,Employed,Savings,155,4,5975,18,7,10,0,0.64,17,1493.75
+36,Male,Unemployed,Savings,86,3,337845,12,6,5,0,0.69,11,112615.0
+45,Female,Self-employed,Savings,100,3,137532,9,12,8,0,0.97,20,45844.0
+46,Male,Self-employed,Current,87,1,110032,15,5,13,1,0.86,18,110032.0
+46,Female,Employed,Current,39,3,1684,18,13,12,0,0.55,25,561.33
+29,Male,Self-employed,Savings,71,2,65535,15,4,5,0,0.56,9,32767.5
+43,Female,Self-employed,Savings,156,2,189174,11,10,11,0,0.98,21,94587.0
+38,Male,Employed,Current,55,2,45699,13,14,7,1,0.92,21,22849.5
+40,Male,Employed,Current,67,2,57402,17,10,14,0,0.99,24,28701.0
+30,Female,Employed,Savings,30,1,17965,10,3,9,0,0.52,12,17965.0
+27,Female,Employed,Savings,106,4,82091,15,7,13,0,0.54,20,20522.75
+39,Female,Employed,Savings,176,1,122068,21,6,12,0,0.76,18,122068.0
+25,Female,Self-employed,Savings,35,1,216056,16,7,10,1,0.64,17,216056.0
+28,Female,Employed,Savings,29,3,699049,9,3,19,0,0.69,22,233016.33
+34,Female,Unemployed,Current,21,1,24635,19,7,6,0,0.51,13,24635.0
+27,Male,Employed,Fixed Deposit,129,1,376503,9,9,7,0,0.73,16,376503.0
+27,Female,Employed,Savings,65,2,130605,14,1,17,0,0.7,18,65302.5
+44,Female,Employed,Current,102,1,62726,15,11,9,0,0.61,20,62726.0
+40,Female,Employed,Current,111,1,315864,14,4,12,1,0.81,16,315864.0
+34,Male,Self-employed,Savings,141,3,39109,16,8,12,0,0.64,20,13036.33
+40,Male,Self-employed,Savings,43,2,64647,12,4,8,0,0.85,12,32323.5
+34,Female,Self-employed,Savings,179,1,374908,9,8,11,1,0.96,19,374908.0
+24,Male,Employed,Savings,36,2,408973,17,6,12,1,0.95,18,204486.5
+36,Male,Self-employed,Current,119,1,215138,19,9,10,0,0.56,19,215138.0
+40,Male,Employed,Current,65,2,171135,19,4,14,1,0.88,18,85567.5
+36,Female,Self-employed,Current,18,1,31259,13,5,15,0,0.62,20,31259.0
+38,Male,Employed,Fixed Deposit,108,1,38203,12,11,9,0,0.63,20,38203.0
+18,Female,Employed,Current,137,1,29922,15,7,14,0,0.62,21,29922.0
+56,Male,Employed,Savings,88,1,24649,15,6,5,0,0.83,11,24649.0
+44,Male,Unemployed,Savings,75,4,80291,15,9,11,0,0.82,20,20072.75
+29,Female,Employed,Savings,45,2,191989,21,6,3,0,0.6,9,95994.5
+39,Female,Employed,Fixed Deposit,166,3,303023,9,8,8,0,0.65,16,101007.67
+38,Male,Employed,Savings,144,1,2847,17,9,9,0,0.69,18,2847.0
+28,Male,Employed,Fixed Deposit,38,3,6268,16,5,6,0,0.98,11,2089.33
+30,Female,Employed,Current,149,3,3579,17,6,9,0,0.87,15,1193.0
+41,Male,Self-employed,Savings,51,1,253112,11,11,11,0,0.54,22,253112.0
+44,Male,Self-employed,Current,75,2,10734,15,12,12,0,0.57,24,5367.0
+30,Female,Employed,Savings,168,1,20496,10,9,10,1,0.57,19,20496.0
+45,Male,Self-employed,Savings,16,2,87766,13,3,13,1,0.97,16,43883.0
+30,Female,Self-employed,Savings,137,2,530364,21,15,10,0,0.73,25,265182.0
+40,Female,Employed,Savings,25,4,32016,11,5,9,0,0.79,14,8004.0
+37,Female,Self-employed,Savings,44,2,359183,13,10,9,0,0.84,19,179591.5
+37,Male,Self-employed,Savings,26,2,267540,15,12,8,0,0.56,20,133770.0
+51,Male,Self-employed,Savings,22,3,286843,13,15,12,1,0.78,27,95614.33
+31,Male,Employed,Current,131,2,4744,18,10,8,1,0.55,18,2372.0
+44,Male,Employed,Savings,95,3,152607,14,11,8,1,0.53,19,50869.0
+32,Male,Employed,Current,93,4,237613,16,6,13,0,0.96,19,59403.25
+37,Female,Self-employed,Savings,20,2,626753,9,14,11,0,0.52,25,313376.5
+25,Female,Self-employed,Savings,32,1,19002,17,6,7,1,0.7,13,19002.0
+18,Male,Employed,Savings,37,3,231831,16,6,13,0,0.74,19,77277.0
+23,Female,Self-employed,Current,155,2,45391,13,15,8,0,0.86,23,22695.5
+34,Male,Employed,Savings,70,2,17592,18,9,16,0,0.64,25,8796.0
+20,Male,Employed,Savings,139,2,275004,11,7,9,0,0.81,16,137502.0
+33,Male,Employed,Current,92,2,141423,15,8,11,0,0.8,19,70711.5
+24,Male,Employed,Current,132,4,129309,15,10,13,0,0.8,23,32327.25
+28,Male,Employed,Current,164,2,122842,12,8,11,0,0.59,19,61421.0
+42,Male,Employed,Current,127,2,93110,19,8,9,0,0.94,17,46555.0
+32,Male,Employed,Savings,77,2,210302,8,6,14,0,0.68,20,105151.0
+19,Male,Employed,Current,149,4,240661,20,10,13,0,0.55,23,60165.25
+44,Female,Self-employed,Savings,146,3,9849,5,9,12,0,0.84,21,3283.0
+36,Female,Self-employed,Savings,156,2,62395,15,5,8,0,0.8,13,31197.5
+42,Male,Employed,Savings,86,2,41579,12,8,9,0,0.92,17,20789.5
+28,Male,Employed,Savings,55,1,199451,14,7,10,0,0.76,17,199451.0
+43,Male,Self-employed,Fixed Deposit,26,1,65229,23,10,13,0,0.53,23,65229.0
+19,Female,Unemployed,Savings,55,2,165538,16,5,11,0,0.77,16,82769.0
+39,Female,Unemployed,Savings,79,1,500,22,7,9,0,0.56,16,500.0
+40,Female,Self-employed,Current,165,4,28621,10,9,15,0,0.5,24,7155.25
+28,Male,Unemployed,Current,113,2,24837,16,6,13,1,0.71,19,12418.5
+38,Male,Employed,Savings,153,1,217091,19,7,11,0,0.69,18,217091.0
+32,Female,Employed,Current,90,3,141291,11,9,11,1,0.6,20,47097.0
+38,Male,Unemployed,Savings,51,2,239549,16,7,5,0,0.6,12,119774.5
+49,Male,Employed,Savings,82,3,215544,15,8,12,1,0.95,20,71848.0
+18,Male,Unemployed,Savings,86,2,35560,11,6,12,0,0.7,18,17780.0
+31,Female,Employed,Savings,91,4,16912,15,8,12,0,0.89,20,4228.0
+47,Male,Employed,Current,64,3,265915,18,8,8,0,0.84,16,88638.33
+19,Female,Self-employed,Current,134,2,161066,15,7,7,0,0.7,14,80533.0
+52,Female,Employed,Savings,97,2,8173,11,4,11,0,0.8,15,4086.5
+40,Male,Self-employed,Fixed Deposit,139,1,207164,22,7,7,1,0.69,14,207164.0
+48,Female,Self-employed,Savings,95,1,84186,15,8,9,0,0.91,17,84186.0
+34,Female,Self-employed,Savings,68,4,239163,19,14,15,0,0.69,29,59790.75
+33,Male,Employed,Savings,110,3,10085,21,13,8,0,0.82,21,3361.67
+48,Male,Employed,Savings,69,2,34605,14,12,11,0,0.62,23,17302.5
+47,Female,Self-employed,Fixed Deposit,151,1,1006257,19,13,12,0,0.5,25,1006257.0
+33,Male,Unemployed,Current,96,1,113562,14,10,12,0,0.9,22,113562.0
+20,Male,Employed,Current,111,1,388192,13,10,14,0,0.95,24,388192.0
+58,Male,Employed,Current,115,3,15376,21,7,7,0,0.56,14,5125.33
+38,Female,Unemployed,Savings,85,3,70499,12,8,10,0,0.58,18,23499.67
+35,Female,Employed,Savings,65,2,387762,15,11,10,0,0.59,21,193881.0
+29,Female,Unemployed,Current,174,1,281685,21,4,14,1,0.51,18,281685.0
+44,Male,Self-employed,Current,113,3,77391,11,8,6,0,0.95,14,25797.0
+31,Male,Self-employed,Current,178,2,15530,16,2,11,0,0.98,13,7765.0
+35,Female,Employed,Savings,138,2,7845,16,10,11,0,0.6,21,3922.5
+39,Male,Employed,Current,164,3,51087,16,10,9,0,0.64,19,17029.0
+19,Female,Self-employed,Savings,23,1,153356,17,6,7,0,0.53,13,153356.0
+42,Male,Employed,Current,163,1,113248,13,11,6,0,0.93,17,113248.0
+27,Female,Employed,Savings,120,3,46227,14,7,10,0,0.82,17,15409.0
+23,Male,Self-employed,Savings,105,2,70220,19,10,7,0,0.9,17,35110.0
+42,Female,Self-employed,Fixed Deposit,57,2,299336,17,8,9,0,0.75,17,149668.0
+21,Male,Employed,Savings,20,2,161568,23,10,8,0,0.79,18,80784.0
+37,Male,Employed,Savings,136,2,163340,14,6,5,0,0.61,11,81670.0
+42,Female,Unemployed,Current,135,1,1750,14,7,9,0,0.75,16,1750.0
+44,Female,Employed,Savings,164,1,174048,19,10,8,0,0.63,18,174048.0
+36,Female,Self-employed,Fixed Deposit,170,2,76138,20,11,11,0,0.98,22,38069.0
+19,Male,Employed,Current,145,3,126282,13,10,7,0,0.97,17,42094.0
+31,Female,Employed,Savings,102,3,138984,15,13,9,1,0.58,22,46328.0
+32,Female,Self-employed,Current,42,4,76737,15,13,15,0,0.88,28,19184.25
+26,Female,Self-employed,Savings,39,1,110060,11,4,12,0,0.68,16,110060.0
+31,Female,Employed,Savings,16,2,144001,19,11,10,0,0.89,21,72000.5
+30,Female,Employed,Savings,157,1,101359,22,7,9,0,0.99,16,101359.0
+41,Male,Self-employed,Savings,16,3,112190,20,10,6,0,0.65,16,37396.67
+37,Female,Unemployed,Savings,123,3,102215,16,13,8,0,1.0,21,34071.67
+25,Male,Employed,Savings,31,1,455440,13,9,7,0,0.86,16,455440.0
+29,Male,Self-employed,Savings,46,1,187284,13,4,12,1,0.75,16,187284.0
+19,Female,Employed,Savings,117,2,54131,12,8,12,0,0.55,20,27065.5
+32,Female,Self-employed,Fixed Deposit,158,3,39594,20,5,13,0,0.7,18,13198.0
+38,Male,Employed,Fixed Deposit,14,1,15092,16,7,10,0,0.86,17,15092.0
+18,Male,Employed,Savings,55,1,43856,16,10,9,0,0.77,19,43856.0
+47,Female,Self-employed,Savings,76,1,500194,13,5,6,0,0.71,11,500194.0
+18,Male,Employed,Current,72,4,35327,16,10,18,0,0.5,28,8831.75
+38,Male,Employed,Current,118,2,50072,12,6,12,0,0.82,18,25036.0
+45,Male,Employed,Savings,111,2,31562,16,7,16,0,0.68,23,15781.0
+45,Male,Unemployed,Current,25,3,252513,16,6,9,0,0.51,15,84171.0
+22,Female,Self-employed,Fixed Deposit,106,2,118449,11,11,11,0,0.8,22,59224.5
+40,Male,Self-employed,Fixed Deposit,161,2,124935,11,12,14,0,0.85,26,62467.5
+30,Male,Self-employed,Savings,139,1,41326,16,14,13,1,0.53,27,41326.0
+36,Male,Unemployed,Savings,71,1,273186,19,9,9,0,0.93,18,273186.0
+29,Male,Employed,Savings,163,3,92984,19,5,13,2,0.73,18,30994.67
+39,Female,Employed,Savings,128,3,38357,15,8,8,0,0.59,16,12785.67
+24,Male,Employed,Savings,50,1,18114,21,12,7,0,0.91,19,18114.0
+19,Female,Unemployed,Savings,58,3,334725,16,7,8,0,0.58,15,111575.0
+45,Female,Self-employed,Current,173,1,89639,15,6,12,1,0.55,18,89639.0
+33,Female,Employed,Savings,78,4,14424,13,8,11,0,0.77,19,3606.0
+62,Male,Employed,Current,124,3,1367,16,10,11,0,0.72,21,455.67
+43,Female,Self-employed,Savings,127,3,107872,15,8,10,0,0.55,18,35957.33
+37,Male,Employed,Savings,98,1,195280,19,8,10,0,0.68,18,195280.0
+31,Female,Self-employed,Current,79,1,432733,17,5,6,0,0.97,11,432733.0
+51,Female,Self-employed,Current,157,4,100368,17,7,5,0,0.92,12,25092.0
+48,Female,Employed,Current,44,2,236097,18,6,8,0,0.77,14,118048.5
+29,Female,Self-employed,Savings,59,2,95494,10,7,11,0,0.71,18,47747.0
+41,Male,Employed,Savings,178,4,495043,12,15,10,0,0.65,25,123760.75
+30,Female,Employed,Savings,99,1,10204,14,7,9,0,0.74,16,10204.0
+47,Male,Unemployed,Savings,162,3,108661,11,6,14,0,0.8,20,36220.33
+29,Male,Self-employed,Savings,77,2,82992,11,7,15,0,1.0,22,41496.0
+38,Male,Unemployed,Current,172,2,180611,18,4,10,0,0.66,14,90305.5
+42,Male,Employed,Fixed Deposit,19,4,52149,16,4,6,1,0.79,10,13037.25
+38,Female,Unemployed,Savings,62,1,28146,15,8,8,0,0.66,16,28146.0
+30,Female,Unemployed,Savings,179,2,66677,18,6,10,0,0.98,16,33338.5
+27,Female,Employed,Savings,107,1,133531,18,10,7,0,0.94,17,133531.0
+18,Female,Employed,Fixed Deposit,27,1,439856,20,9,6,1,0.88,15,439856.0
+41,Female,Self-employed,Savings,20,2,156830,12,5,14,0,0.51,19,78415.0
+35,Female,Self-employed,Savings,47,2,129049,17,5,6,0,0.73,11,64524.5
+30,Female,Self-employed,Savings,29,2,105561,24,12,10,1,0.93,22,52780.5
+29,Female,Unemployed,Fixed Deposit,15,1,25793,17,14,8,0,0.62,22,25793.0
+42,Male,Self-employed,Savings,161,3,119302,13,5,7,0,0.91,12,39767.33
+26,Female,Employed,Fixed Deposit,152,1,407338,24,11,6,0,0.83,17,407338.0
+44,Female,Employed,Savings,65,3,612484,19,7,6,0,0.81,13,204161.33
+43,Male,Self-employed,Savings,84,1,59463,18,6,9,0,0.92,15,59463.0
+43,Female,Employed,Savings,120,1,127874,19,15,9,0,0.56,24,127874.0
+55,Female,Employed,Savings,147,1,5649,22,5,9,0,0.84,14,5649.0
+40,Female,Employed,Savings,134,2,3956,21,4,6,0,0.58,10,1978.0
+40,Female,Employed,Current,16,2,215390,9,8,24,1,0.65,32,107695.0
+34,Female,Self-employed,Savings,41,1,374036,15,5,15,0,0.78,20,374036.0
+21,Male,Employed,Current,86,3,56273,14,7,9,0,0.56,16,18757.67
+54,Male,Employed,Current,129,1,70358,16,10,14,1,0.66,24,70358.0
+31,Male,Employed,Savings,134,1,281450,9,11,8,0,0.9,19,281450.0
+37,Male,Employed,Fixed Deposit,72,2,58696,21,10,13,0,0.71,23,29348.0
+20,Male,Employed,Savings,50,2,352162,24,12,13,0,0.52,25,176081.0
+34,Female,Employed,Current,55,3,21033,22,7,10,0,0.5,17,7011.0
+19,Male,Employed,Savings,72,1,335458,13,7,11,0,0.77,18,335458.0
+42,Female,Unemployed,Savings,117,1,202336,15,9,16,0,0.54,25,202336.0
+38,Female,Employed,Savings,122,4,65721,15,11,13,0,0.57,24,16430.25
+52,Female,Employed,Savings,116,1,377316,12,7,8,0,0.82,15,377316.0
+29,Female,Employed,Fixed Deposit,53,3,12368,6,6,9,0,0.85,15,4122.67
+21,Female,Employed,Savings,149,4,163918,17,13,13,0,0.81,26,40979.5
+31,Male,Employed,Savings,67,4,82549,12,8,17,1,0.72,25,20637.25
+42,Male,Employed,Savings,77,3,48993,11,9,8,0,0.56,17,16331.0
+35,Female,Self-employed,Current,139,3,23189,15,8,12,0,0.52,20,7729.67
+58,Female,Employed,Savings,143,1,212288,14,6,11,0,0.64,17,212288.0
+48,Male,Employed,Current,97,3,279846,14,9,5,0,0.54,14,93282.0
+28,Male,Unemployed,Savings,65,1,15840,12,11,8,0,0.81,19,15840.0
+40,Male,Unemployed,Savings,18,4,8170,17,5,10,0,0.79,15,2042.5
+33,Male,Employed,Current,39,2,327140,17,4,11,0,0.86,15,163570.0
+45,Male,Self-employed,Current,138,1,80891,10,6,3,0,0.79,9,80891.0
+38,Male,Unemployed,Savings,134,1,258046,13,11,11,0,0.67,22,258046.0
+41,Male,Self-employed,Fixed Deposit,119,1,145671,17,9,8,0,0.56,17,145671.0
+32,Male,Employed,Current,177,4,240015,15,10,10,1,0.78,20,60003.75
+18,Male,Self-employed,Savings,114,1,67106,21,14,9,0,0.66,23,67106.0
+26,Male,Unemployed,Current,22,3,18166,14,9,10,0,0.78,19,6055.33
+54,Female,Self-employed,Current,148,1,2336,14,10,6,0,0.62,16,2336.0
+26,Female,Self-employed,Savings,157,1,111844,25,9,9,0,0.58,18,111844.0
+52,Male,Employed,Savings,117,3,214503,12,7,10,0,0.84,17,71501.0
+43,Male,Employed,Savings,26,1,147681,13,12,14,0,0.66,26,147681.0
+26,Male,Unemployed,Current,108,3,38952,11,7,7,0,0.96,14,12984.0
+27,Male,Employed,Savings,58,3,210952,15,10,9,0,0.58,19,70317.33
+18,Female,Unemployed,Savings,143,2,26528,16,4,8,0,0.97,12,13264.0
+47,Male,Employed,Savings,156,4,56271,12,11,17,0,0.75,28,14067.75
+27,Female,Employed,Savings,37,4,355883,15,9,10,0,0.51,19,88970.75
+29,Male,Employed,Current,95,2,162867,13,6,8,0,0.64,14,81433.5
+34,Male,Employed,Savings,162,3,72865,21,11,14,0,1.0,25,24288.33
+43,Female,Unemployed,Current,68,2,52512,17,8,8,0,0.86,16,26256.0
+46,Female,Employed,Current,77,1,114617,8,12,13,0,0.96,25,114617.0
+35,Male,Employed,Savings,103,2,3565,11,9,11,0,0.59,20,1782.5
+35,Male,Employed,Savings,13,1,484035,15,8,9,0,0.58,17,484035.0
+25,Female,Self-employed,Savings,31,3,229427,18,8,9,0,0.82,17,76475.67
+27,Male,Employed,Current,102,1,81754,13,6,15,0,0.9,21,81754.0
+20,Female,Unemployed,Savings,42,1,20295,12,11,11,0,0.83,22,20295.0
+52,Male,Employed,Savings,118,1,47446,11,11,14,0,0.67,25,47446.0
+32,Female,Employed,Current,117,4,338657,15,7,10,0,0.98,17,84664.25
+30,Female,Self-employed,Savings,91,2,154698,24,10,11,0,0.79,21,77349.0
+30,Female,Employed,Savings,152,1,102968,17,12,10,0,0.97,22,102968.0
+25,Male,Self-employed,Current,77,2,11029,14,5,13,0,0.63,18,5514.5
+38,Male,Self-employed,Savings,165,1,285930,13,8,9,0,0.91,17,285930.0
+18,Male,Employed,Current,159,3,80310,16,7,9,0,0.59,16,26770.0
+33,Female,Employed,Current,153,2,679300,13,10,8,1,0.5,18,339650.0
+18,Male,Employed,Savings,171,2,87339,19,7,18,0,0.59,25,43669.5
+33,Female,Employed,Savings,166,3,237242,14,12,11,0,0.89,23,79080.67
+34,Male,Employed,Savings,76,3,283800,15,10,11,0,0.87,21,94600.0
+37,Female,Self-employed,Savings,44,3,130530,18,7,12,1,0.58,19,43510.0
+26,Male,Unemployed,Current,57,4,104277,20,7,16,0,0.63,23,26069.25
+25,Male,Employed,Savings,112,4,203529,7,12,12,1,0.74,24,50882.25
+31,Male,Unemployed,Savings,108,3,75945,14,9,8,0,0.84,17,25315.0
+30,Female,Unemployed,Savings,26,3,280482,15,7,10,0,0.85,17,93494.0
+35,Female,Employed,Savings,51,2,4047,15,6,14,0,0.54,20,2023.5
+20,Female,Employed,Savings,60,2,3953,14,8,8,0,0.78,16,1976.5
+29,Male,Employed,Savings,71,2,35725,17,6,12,0,0.91,18,17862.5
+23,Female,Self-employed,Savings,154,3,169002,21,7,13,0,0.78,20,56334.0
+34,Male,Self-employed,Current,61,3,136808,7,10,7,1,0.76,17,45602.67
+28,Female,Self-employed,Current,74,2,282374,18,8,12,1,0.74,20,141187.0
+39,Female,Unemployed,Savings,123,4,484314,11,9,10,0,0.63,19,121078.5
+27,Male,Employed,Current,83,1,6535,11,10,9,1,0.61,19,6535.0
+18,Male,Self-employed,Current,74,1,15731,16,8,9,0,0.65,17,15731.0
+23,Male,Unemployed,Current,72,1,661900,17,7,6,0,0.69,13,661900.0
+28,Female,Employed,Current,156,1,323211,12,5,12,1,0.52,17,323211.0
+31,Female,Employed,Current,58,3,91032,19,7,4,1,0.82,11,30344.0
+33,Female,Employed,Savings,108,1,137693,15,7,8,0,0.64,15,137693.0
+35,Male,Employed,Current,51,2,308278,21,10,8,0,0.67,18,154139.0
+30,Female,Employed,Savings,161,4,75108,20,10,8,0,0.84,18,18777.0
+24,Male,Unemployed,Current,171,4,65664,10,8,7,1,0.74,15,16416.0
+34,Male,Employed,Savings,27,1,25449,21,8,9,0,0.7,17,25449.0
+32,Female,Employed,Savings,50,1,90635,18,8,18,0,0.79,26,90635.0
+19,Male,Self-employed,Savings,163,2,79085,15,12,11,0,0.84,23,39542.5
+40,Female,Employed,Current,124,3,253599,12,10,8,1,0.76,18,84533.0
+44,Female,Employed,Savings,97,2,96764,26,8,11,0,0.51,19,48382.0
+22,Male,Self-employed,Savings,67,3,322180,14,6,8,0,0.8,14,107393.33
+31,Male,Employed,Current,153,1,218664,13,8,9,0,0.68,17,218664.0
+35,Male,Self-employed,Savings,140,3,120498,16,5,10,2,0.6,15,40166.0
+48,Female,Unemployed,Savings,111,1,81798,18,7,7,0,0.87,14,81798.0
+39,Male,Self-employed,Current,99,2,197325,19,4,10,0,0.96,14,98662.5
+40,Female,Employed,Current,54,1,125225,26,6,13,0,0.77,19,125225.0
+18,Female,Self-employed,Savings,114,4,74883,20,7,11,0,0.96,18,18720.75
+33,Female,Employed,Fixed Deposit,133,1,292234,13,7,5,0,0.71,12,292234.0
+30,Male,Employed,Current,171,2,208550,25,6,17,0,0.74,23,104275.0
+29,Male,Employed,Savings,157,1,24754,22,11,8,1,0.75,19,24754.0
+44,Male,Employed,Savings,88,2,660749,12,1,10,0,0.78,11,330374.5
+41,Male,Employed,Savings,162,4,33421,11,7,11,0,0.79,18,8355.25
+37,Female,Self-employed,Savings,76,2,71976,12,8,6,0,0.6,14,35988.0
+54,Female,Employed,Savings,162,2,170345,15,4,8,0,0.58,12,85172.5
+34,Female,Unemployed,Current,32,4,106908,23,3,15,0,0.98,18,26727.0
+48,Male,Employed,Current,124,3,161918,16,6,13,0,0.91,19,53972.67
+34,Male,Unemployed,Savings,139,2,121337,17,6,10,0,0.84,16,60668.5
+49,Female,Employed,Current,161,2,173134,18,12,10,0,0.9,22,86567.0
+29,Female,Employed,Fixed Deposit,154,4,157790,10,4,4,1,0.91,8,39447.5
+30,Female,Employed,Savings,150,1,39013,18,5,12,0,0.82,17,39013.0
+36,Male,Employed,Fixed Deposit,134,1,104541,21,9,15,0,0.86,24,104541.0
+18,Female,Employed,Savings,60,4,140078,10,9,7,0,0.73,16,35019.5
+19,Male,Employed,Savings,140,2,40306,14,6,7,0,0.65,13,20153.0
+36,Male,Employed,Savings,94,2,6683,14,10,8,0,0.56,18,3341.5
+20,Female,Employed,Fixed Deposit,109,1,110084,18,10,5,1,0.6,15,110084.0
+26,Female,Employed,Current,131,2,90834,19,7,9,0,0.93,16,45417.0
+29,Male,Employed,Savings,78,4,448121,13,7,11,0,0.97,18,112030.25
+24,Male,Self-employed,Savings,162,1,110403,13,9,11,0,0.58,20,110403.0
+33,Male,Employed,Savings,39,1,438471,18,6,14,0,0.94,20,438471.0
+58,Female,Employed,Current,109,1,337946,17,4,13,0,0.61,17,337946.0
+36,Female,Employed,Savings,147,2,454218,17,4,6,0,0.97,10,227109.0
+19,Female,Employed,Fixed Deposit,46,2,6858,19,13,11,0,0.57,24,3429.0
+27,Female,Self-employed,Savings,172,1,134640,17,9,11,0,0.91,20,134640.0
+32,Male,Employed,Current,29,4,45547,15,7,16,0,0.54,23,11386.75
+25,Female,Employed,Fixed Deposit,94,2,82758,5,6,11,0,0.99,17,41379.0
+38,Female,Employed,Fixed Deposit,127,2,117641,17,16,7,1,0.81,23,58820.5
+28,Female,Employed,Fixed Deposit,77,4,213082,19,2,10,0,0.74,12,53270.5
+50,Male,Self-employed,Savings,161,4,179447,18,10,12,0,0.78,22,44861.75
+38,Female,Employed,Current,135,2,59591,21,10,11,1,0.56,21,29795.5
+31,Male,Employed,Current,166,1,3702,12,8,14,0,0.57,22,3702.0
+50,Female,Employed,Savings,123,1,66106,13,9,10,1,0.84,19,66106.0
+54,Female,Unemployed,Fixed Deposit,46,1,81915,10,6,8,0,0.99,14,81915.0
+34,Male,Employed,Current,150,3,13403,16,13,13,0,0.68,26,4467.67
+27,Female,Employed,Savings,76,2,98363,15,4,9,0,0.63,13,49181.5
+48,Female,Employed,Savings,150,1,303513,14,6,8,0,0.63,14,303513.0
+34,Female,Employed,Fixed Deposit,125,1,155354,18,10,7,0,0.72,17,155354.0
+34,Female,Employed,Savings,19,4,49768,17,6,13,0,0.95,19,12442.0
+38,Female,Employed,Savings,165,1,36930,12,14,8,0,0.72,22,36930.0
+23,Female,Self-employed,Current,108,3,22925,18,6,9,0,0.86,15,7641.67
+41,Female,Self-employed,Savings,130,2,374937,12,7,4,0,0.51,11,187468.5
+48,Female,Employed,Savings,137,4,266260,16,6,6,0,0.72,12,66565.0
+45,Male,Self-employed,Savings,87,1,143122,12,8,12,0,0.89,20,143122.0
+49,Male,Self-employed,Savings,54,2,246698,8,10,10,0,0.61,20,123349.0
+39,Male,Self-employed,Current,36,1,211875,17,8,15,1,0.94,23,211875.0
+39,Male,Employed,Savings,115,3,11780,19,8,13,0,0.66,21,3926.67
+35,Female,Employed,Savings,105,2,171465,14,9,10,0,0.89,19,85732.5
+19,Male,Employed,Savings,16,1,318505,15,10,11,0,0.74,21,318505.0
+18,Female,Unemployed,Savings,73,1,282310,16,6,5,0,0.6,11,282310.0
+43,Male,Employed,Current,58,1,6622,12,5,5,0,0.57,10,6622.0
+18,Female,Employed,Current,59,3,41041,17,4,11,0,0.85,15,13680.33
+21,Female,Unemployed,Fixed Deposit,177,1,32373,22,15,15,0,0.91,30,32373.0
+19,Female,Employed,Fixed Deposit,78,4,39059,25,5,10,0,0.65,15,9764.75
+28,Female,Self-employed,Fixed Deposit,71,2,255084,16,4,8,0,0.68,12,127542.0
+25,Male,Employed,Savings,83,1,349043,24,8,12,0,0.61,20,349043.0
+47,Female,Self-employed,Fixed Deposit,145,1,363601,20,10,5,0,0.72,15,363601.0
+24,Female,Unemployed,Fixed Deposit,68,3,333134,10,11,7,0,0.74,18,111044.67
+44,Male,Unemployed,Savings,29,3,396694,14,6,10,0,0.75,16,132231.33
+33,Male,Unemployed,Savings,175,2,107951,18,7,8,1,0.84,15,53975.5
+18,Female,Employed,Current,148,2,105373,13,5,14,0,0.82,19,52686.5
+42,Female,Employed,Savings,100,2,76755,15,7,14,0,0.71,21,38377.5
+43,Male,Employed,Savings,19,2,78872,8,7,10,0,0.86,17,39436.0
+22,Male,Self-employed,Fixed Deposit,27,3,14383,23,9,12,0,0.72,21,4794.33
+31,Female,Employed,Fixed Deposit,134,2,320719,16,10,9,0,0.63,19,160359.5
+41,Male,Employed,Current,148,1,23142,21,3,6,0,0.56,9,23142.0
+27,Male,Self-employed,Savings,28,1,161861,17,8,14,0,0.69,22,161861.0
+55,Female,Unemployed,Current,172,3,144127,19,13,7,0,0.58,20,48042.33
+46,Male,Employed,Savings,36,2,114871,16,5,9,0,0.94,14,57435.5
+35,Male,Unemployed,Current,165,2,46622,17,8,14,1,0.55,22,23311.0
+47,Male,Employed,Current,135,1,29403,16,7,4,0,0.96,11,29403.0
+28,Male,Self-employed,Savings,175,2,146496,21,9,6,0,0.83,15,73248.0
+24,Male,Self-employed,Savings,173,3,72339,10,5,12,0,0.56,17,24113.0
+44,Female,Self-employed,Current,143,1,177468,20,7,7,0,0.85,14,177468.0
+36,Female,Employed,Current,88,1,196677,18,7,11,0,0.57,18,196677.0
+22,Male,Employed,Savings,21,3,147481,23,4,8,0,0.77,12,49160.33
+48,Male,Employed,Savings,177,4,24170,14,7,6,0,0.52,13,6042.5
+36,Male,Employed,Savings,142,3,20784,14,5,8,0,1.0,13,6928.0
+32,Male,Self-employed,Current,54,1,4051,9,4,12,0,1.0,16,4051.0
+59,Female,Employed,Savings,92,1,298363,20,10,10,1,0.65,20,298363.0
+29,Female,Employed,Fixed Deposit,93,3,232525,13,6,6,0,0.78,12,77508.33
+18,Female,Employed,Current,136,4,329830,13,6,13,0,0.72,19,82457.5
+31,Male,Employed,Current,34,3,221120,11,9,7,0,0.59,16,73706.67
+38,Female,Employed,Current,146,3,144617,13,6,8,0,0.54,14,48205.67
+28,Male,Employed,Current,157,1,43993,15,2,8,1,0.75,10,43993.0
+51,Female,Employed,Current,167,4,37400,17,5,7,0,0.79,12,9350.0
+28,Female,Self-employed,Savings,114,1,210609,15,5,13,0,0.94,18,210609.0
+21,Female,Self-employed,Savings,159,3,43853,20,8,7,0,0.65,15,14617.67
+40,Male,Self-employed,Current,123,1,62411,17,11,14,0,0.92,25,62411.0
+22,Male,Employed,Current,64,2,439281,11,7,7,1,0.95,14,219640.5
+37,Male,Self-employed,Current,35,2,121403,15,12,12,0,0.79,24,60701.5
+34,Female,Employed,Savings,164,1,112198,14,9,10,0,0.68,19,112198.0
+47,Female,Employed,Current,46,1,48627,16,4,6,0,0.78,10,48627.0
+33,Female,Employed,Savings,125,2,178759,19,6,11,0,0.5,17,89379.5
+38,Female,Self-employed,Current,23,1,303694,13,4,14,0,0.61,18,303694.0
+23,Female,Employed,Fixed Deposit,108,1,49313,10,4,8,0,0.81,12,49313.0
+22,Male,Self-employed,Savings,26,1,361613,15,8,6,1,0.9,14,361613.0
+39,Male,Employed,Savings,54,1,213451,17,7,14,0,0.7,21,213451.0
+42,Male,Employed,Savings,114,3,139857,16,7,14,0,0.85,21,46619.0
+32,Female,Employed,Savings,67,1,547571,13,6,8,0,0.62,14,547571.0
+46,Male,Employed,Savings,22,4,123013,11,5,17,1,0.61,22,30753.25
+50,Male,Employed,Current,33,1,25295,19,5,6,0,0.92,11,25295.0
+51,Female,Employed,Current,82,3,311046,12,13,8,0,0.71,21,103682.0
+46,Female,Self-employed,Savings,146,4,289859,14,8,12,0,0.59,20,72464.75
+32,Female,Employed,Fixed Deposit,88,1,138154,10,13,13,0,0.53,26,138154.0
+44,Male,Employed,Fixed Deposit,136,4,152630,15,4,7,1,0.86,11,38157.5
+33,Male,Employed,Savings,59,1,257395,20,7,16,1,0.67,23,257395.0
+34,Female,Self-employed,Savings,152,2,237573,10,10,7,0,0.52,17,118786.5
+31,Female,Employed,Fixed Deposit,91,2,44627,8,9,8,0,0.76,17,22313.5
+38,Female,Unemployed,Savings,20,4,266177,18,7,11,0,0.68,18,66544.25
+28,Female,Self-employed,Savings,53,2,113835,19,5,7,0,0.61,12,56917.5
+54,Female,Employed,Savings,20,2,160186,14,7,9,0,0.76,16,80093.0
+52,Female,Self-employed,Current,54,2,36096,19,8,10,0,0.66,18,18048.0
+28,Male,Employed,Savings,21,1,53547,18,10,9,0,0.76,19,53547.0
+18,Female,Employed,Fixed Deposit,77,1,233873,17,3,12,0,0.55,15,233873.0
+50,Male,Unemployed,Current,56,2,260385,10,9,7,0,0.64,16,130192.5
+46,Male,Self-employed,Current,114,2,237740,10,9,15,0,0.83,24,118870.0
+37,Male,Self-employed,Current,59,3,315427,15,18,8,0,0.8,26,105142.33
+35,Male,Self-employed,Savings,82,4,54582,22,10,7,1,0.51,17,13645.5
+34,Male,Self-employed,Savings,62,1,175647,17,7,12,0,0.92,19,175647.0
+44,Female,Employed,Savings,30,1,300937,18,9,11,0,0.77,20,300937.0
+18,Male,Employed,Savings,150,4,103681,11,10,13,0,0.97,23,25920.25
+34,Male,Employed,Current,132,2,116857,17,8,7,0,0.68,15,58428.5
+29,Male,Employed,Savings,179,1,49121,8,12,6,0,0.72,18,49121.0
+43,Female,Employed,Savings,175,1,10846,13,6,9,0,0.62,15,10846.0
+18,Female,Employed,Savings,153,1,278440,11,8,9,0,0.91,17,278440.0
+42,Female,Employed,Savings,73,2,10488,17,12,10,0,0.54,22,5244.0
+39,Male,Employed,Savings,129,1,49437,16,7,12,0,0.98,19,49437.0
+46,Female,Employed,Savings,87,1,134379,21,6,11,0,0.81,17,134379.0
+43,Female,Employed,Current,42,1,163930,9,7,8,0,0.6,15,163930.0
+39,Male,Self-employed,Current,113,2,36495,14,9,14,0,0.76,23,18247.5
+63,Male,Self-employed,Current,27,3,142019,14,7,14,0,0.92,21,47339.67
+33,Male,Employed,Savings,101,3,2427,16,9,12,1,0.54,21,809.0
+28,Male,Employed,Savings,47,3,271495,25,7,7,0,0.77,14,90498.33
+38,Male,Self-employed,Savings,137,4,9129,15,6,10,0,0.73,16,2282.25
+36,Female,Employed,Savings,152,3,167273,19,5,12,1,0.97,17,55757.67
+32,Female,Self-employed,Savings,28,3,223102,15,8,13,0,0.69,21,74367.33
+24,Female,Unemployed,Savings,109,2,27377,10,9,12,0,0.99,21,13688.5
+39,Male,Self-employed,Savings,150,2,524819,15,10,10,0,0.94,20,262409.5
+25,Female,Employed,Savings,106,3,106779,21,10,7,0,0.71,17,35593.0
+47,Male,Employed,Savings,65,1,58184,7,6,6,0,0.94,12,58184.0
+43,Male,Employed,Fixed Deposit,167,1,333752,9,7,8,0,0.82,15,333752.0
+26,Female,Self-employed,Savings,83,1,485101,15,6,10,0,0.84,16,485101.0
+28,Female,Employed,Fixed Deposit,38,1,59819,20,7,10,1,0.79,17,59819.0
+25,Male,Employed,Savings,37,3,5512,14,6,6,0,0.95,12,1837.33
+30,Female,Self-employed,Savings,130,2,88258,13,7,11,0,0.59,18,44129.0
+37,Male,Employed,Current,21,2,84062,19,9,3,0,0.62,12,42031.0
+21,Female,Employed,Savings,40,4,47107,13,8,5,1,0.76,13,11776.75
+61,Male,Employed,Savings,35,3,270740,15,6,10,0,0.94,16,90246.67
+36,Male,Employed,Current,30,2,60712,7,7,10,0,0.58,17,30356.0
+36,Male,Employed,Savings,127,2,34217,21,9,6,1,0.86,15,17108.5
+47,Male,Self-employed,Savings,158,1,166551,10,6,6,2,0.53,12,166551.0
+48,Male,Employed,Savings,92,1,185883,11,4,11,0,0.69,15,185883.0
+24,Male,Employed,Savings,117,3,169391,21,4,16,0,0.52,20,56463.67
+50,Male,Self-employed,Savings,178,2,208157,15,12,8,0,0.95,20,104078.5
+38,Male,Employed,Savings,77,1,298593,15,10,5,0,0.51,15,298593.0
+21,Male,Self-employed,Current,23,4,163572,17,7,11,1,0.94,18,40893.0
+31,Female,Self-employed,Fixed Deposit,174,1,23479,16,12,10,1,0.74,22,23479.0
+18,Male,Employed,Savings,171,1,226851,18,10,7,0,0.93,17,226851.0
+38,Female,Employed,Current,129,3,387098,13,9,10,0,0.76,19,129032.67
+34,Female,Employed,Savings,80,3,463966,14,3,14,1,0.88,17,154655.33
+33,Female,Self-employed,Fixed Deposit,81,4,81526,17,8,13,0,0.85,21,20381.5
+38,Male,Self-employed,Savings,127,2,26025,20,2,10,0,0.65,12,13012.5
+18,Male,Self-employed,Current,68,2,24843,15,13,11,0,0.6,24,12421.5
+29,Female,Unemployed,Savings,101,2,187120,15,6,9,1,0.63,15,93560.0
+26,Female,Employed,Savings,157,1,18403,13,8,11,0,0.84,19,18403.0
+22,Female,Employed,Fixed Deposit,140,2,368381,13,5,10,1,0.72,15,184190.5
+44,Female,Unemployed,Current,51,1,40303,17,11,15,0,0.84,26,40303.0
+25,Female,Employed,Current,147,1,241868,15,14,13,0,0.69,27,241868.0
+26,Female,Employed,Savings,90,3,4491,16,7,6,1,0.51,13,1497.0
+31,Male,Employed,Savings,87,1,130516,24,4,8,0,0.87,12,130516.0
+40,Male,Employed,Savings,118,2,10805,15,11,11,0,0.73,22,5402.5
+64,Male,Self-employed,Current,131,3,7653,14,9,9,0,0.59,18,2551.0
+36,Female,Employed,Savings,108,3,104267,13,5,12,0,0.82,17,34755.67
+36,Female,Employed,Fixed Deposit,70,2,332327,13,5,11,0,0.95,16,166163.5
+46,Female,Employed,Current,143,2,92229,10,8,13,0,0.93,21,46114.5
+22,Female,Employed,Savings,164,1,194275,22,7,12,0,0.64,19,194275.0
+50,Male,Self-employed,Savings,45,3,332535,20,9,10,0,0.91,19,110845.0
+42,Female,Employed,Current,27,1,461005,15,7,7,1,0.73,14,461005.0
+22,Male,Unemployed,Savings,100,1,55003,14,7,8,1,0.97,15,55003.0
+28,Female,Self-employed,Savings,131,3,22082,9,9,9,1,0.8,18,7360.67
+38,Male,Employed,Savings,135,3,32231,11,7,8,1,0.75,15,10743.67
+52,Female,Self-employed,Savings,86,3,108207,13,12,12,0,0.99,24,36069.0
+36,Female,Self-employed,Fixed Deposit,177,2,77036,13,5,10,0,0.86,15,38518.0
+18,Female,Employed,Savings,88,2,9269,20,9,11,0,0.81,20,4634.5
+33,Female,Employed,Savings,121,2,48149,20,15,12,0,0.66,27,24074.5
+30,Female,Unemployed,Fixed Deposit,151,2,3265,14,12,12,0,0.74,24,1632.5
+52,Female,Employed,Savings,94,4,323087,10,4,4,0,0.51,8,80771.75
+52,Male,Self-employed,Savings,150,1,114190,16,8,6,0,0.56,14,114190.0
+38,Male,Employed,Savings,65,1,127165,9,9,10,0,0.88,19,127165.0
+43,Male,Employed,Current,36,1,445441,10,7,10,0,0.76,17,445441.0
+45,Male,Self-employed,Savings,40,3,15498,7,9,12,0,0.52,21,5166.0
+50,Male,Employed,Savings,75,1,167334,13,12,9,0,0.6,21,167334.0
+48,Female,Employed,Current,104,1,20831,7,16,6,0,0.61,22,20831.0
+40,Female,Employed,Savings,17,1,192884,10,4,12,0,0.89,16,192884.0
+31,Female,Unemployed,Savings,124,3,30807,16,10,13,0,0.54,23,10269.0
+30,Male,Self-employed,Savings,50,3,11981,18,9,15,2,0.68,24,3993.67
+37,Male,Employed,Current,176,1,200801,13,6,8,0,0.96,14,200801.0
+47,Female,Employed,Savings,113,3,151352,14,6,6,2,0.71,12,50450.67
+43,Female,Employed,Savings,138,1,78907,19,10,10,0,0.76,20,78907.0
+32,Male,Employed,Savings,90,1,62189,9,6,11,1,0.63,17,62189.0
+29,Female,Employed,Current,42,2,49453,14,7,10,0,0.87,17,24726.5
+38,Male,Employed,Current,128,1,15586,14,7,13,0,0.56,20,15586.0
+45,Male,Unemployed,Current,74,4,139308,12,11,7,0,0.71,18,34827.0
+45,Female,Self-employed,Savings,105,2,19962,16,5,14,0,0.64,19,9981.0
+18,Female,Employed,Savings,162,3,247952,18,6,10,0,0.8,16,82650.67
+32,Male,Employed,Savings,96,2,71234,13,10,13,0,0.64,23,35617.0
+26,Female,Employed,Fixed Deposit,123,1,151193,12,3,11,1,0.87,14,151193.0
+25,Female,Employed,Savings,21,2,127221,17,7,5,0,0.68,12,63610.5
+45,Female,Employed,Savings,18,1,176087,9,8,19,0,0.55,27,176087.0
+38,Female,Employed,Savings,127,3,22850,19,12,9,0,0.99,21,7616.67
+41,Female,Employed,Savings,176,1,42325,22,7,6,0,0.71,13,42325.0
+47,Female,Employed,Current,112,2,73326,12,5,7,2,0.71,12,36663.0
+60,Female,Self-employed,Savings,141,4,141443,15,7,8,0,0.92,15,35360.75
+57,Female,Self-employed,Current,130,4,95231,23,5,5,0,0.61,10,23807.75
+34,Female,Employed,Savings,54,1,8519,16,6,9,0,0.54,15,8519.0
+42,Male,Employed,Savings,179,2,380612,13,9,6,0,0.93,15,190306.0
+36,Female,Employed,Fixed Deposit,19,1,5407,19,8,7,0,0.94,15,5407.0
+56,Male,Employed,Savings,19,4,8253,14,2,12,0,0.78,14,2063.25
+46,Male,Self-employed,Fixed Deposit,98,4,92709,23,10,12,1,0.73,22,23177.25
+38,Male,Self-employed,Current,150,2,7826,9,11,12,0,0.69,23,3913.0
+42,Female,Self-employed,Savings,143,2,4437,13,10,6,3,0.69,16,2218.5
+60,Female,Unemployed,Savings,143,2,3669,11,8,13,0,0.63,21,1834.5
+36,Male,Employed,Savings,178,1,95000,17,7,8,0,0.83,15,95000.0
+23,Female,Self-employed,Current,160,1,72756,16,9,9,0,0.82,18,72756.0
+42,Female,Employed,Current,128,2,341302,13,12,11,0,0.53,23,170651.0
+27,Female,Self-employed,Current,136,2,149391,10,7,9,0,0.89,16,74695.5
+30,Female,Self-employed,Savings,56,3,65953,12,6,7,0,0.83,13,21984.33
+52,Male,Self-employed,Savings,141,3,266673,14,8,10,0,0.91,18,88891.0
+24,Female,Self-employed,Current,82,1,60526,21,14,10,1,0.98,24,60526.0
+47,Male,Employed,Savings,99,2,78222,16,9,11,0,0.82,20,39111.0
+41,Female,Employed,Savings,13,2,44403,19,8,12,0,0.92,20,22201.5
+38,Male,Employed,Savings,107,3,58652,12,15,13,1,0.66,28,19550.67
+25,Male,Employed,Savings,143,1,189856,17,8,3,0,0.97,11,189856.0
+35,Male,Employed,Savings,44,1,126790,10,9,14,0,0.99,23,126790.0
+49,Female,Employed,Savings,126,3,7895,19,9,9,0,0.57,18,2631.67
+32,Female,Employed,Savings,112,3,26082,11,13,11,0,0.84,24,8694.0
+39,Male,Employed,Savings,105,2,5436,9,8,5,0,0.78,13,2718.0
+18,Female,Employed,Savings,161,1,191173,13,6,13,0,0.87,19,191173.0
+33,Female,Self-employed,Current,146,1,47240,11,6,11,0,0.98,17,47240.0
+36,Male,Employed,Current,56,2,705464,20,5,8,0,0.96,13,352732.0
+39,Female,Self-employed,Savings,27,3,224483,11,4,11,0,0.52,15,74827.67
+18,Female,Self-employed,Savings,62,1,241627,12,9,10,2,0.66,19,241627.0
+23,Female,Employed,Savings,54,3,26622,17,7,8,1,0.68,15,8874.0
+27,Male,Employed,Current,81,3,3245,10,7,10,0,0.61,17,1081.67
+50,Female,Employed,Savings,29,1,130468,18,8,10,0,0.67,18,130468.0
+23,Male,Employed,Savings,17,1,13649,11,13,9,0,0.55,22,13649.0
+19,Male,Employed,Savings,169,3,674946,14,7,6,0,0.98,13,224982.0
+40,Male,Employed,Fixed Deposit,117,3,5602,15,12,14,0,0.59,26,1867.33
+37,Male,Employed,Fixed Deposit,40,3,416191,8,9,10,0,0.85,19,138730.33
+31,Female,Employed,Fixed Deposit,121,2,231068,19,6,7,2,0.92,13,115534.0
+23,Female,Employed,Current,169,2,328889,9,12,4,0,0.63,16,164444.5
+33,Female,Self-employed,Savings,157,3,9592,14,5,13,0,0.52,18,3197.33
+43,Male,Employed,Fixed Deposit,144,1,18547,12,4,10,1,0.62,14,18547.0
+23,Female,Self-employed,Fixed Deposit,145,2,104104,17,8,9,0,0.59,17,52052.0
+34,Female,Employed,Fixed Deposit,85,4,2400,19,8,11,0,0.53,19,600.0
+25,Female,Unemployed,Savings,37,3,57537,20,12,13,0,0.62,25,19179.0
+31,Female,Employed,Savings,34,1,141618,13,2,11,0,0.81,13,141618.0
+48,Male,Employed,Savings,122,3,57855,14,6,12,0,0.79,18,19285.0
+38,Male,Self-employed,Savings,159,4,334603,19,6,7,0,0.68,13,83650.75
+24,Female,Employed,Current,77,2,48320,19,6,8,0,0.75,14,24160.0
+39,Female,Unemployed,Savings,47,2,235612,11,8,15,0,0.67,23,117806.0
+49,Male,Self-employed,Savings,128,2,51871,14,10,18,0,0.75,28,25935.5
+23,Male,Employed,Savings,131,1,182564,12,8,6,0,0.8,14,182564.0
+24,Male,Employed,Fixed Deposit,25,3,252875,23,2,8,0,0.55,10,84291.67
+39,Female,Employed,Savings,98,2,69212,13,11,8,1,0.58,19,34606.0
+35,Female,Self-employed,Savings,115,3,103236,24,5,9,0,0.91,14,34412.0
+18,Male,Employed,Savings,58,1,213861,18,9,10,0,0.68,19,213861.0
+33,Male,Employed,Savings,74,3,179685,14,11,8,0,0.99,19,59895.0
+24,Female,Self-employed,Savings,134,3,10236,13,11,8,0,0.82,19,3412.0
+18,Male,Employed,Current,97,3,253221,10,13,6,0,0.51,19,84407.0
+60,Male,Employed,Savings,72,2,59072,18,9,11,1,0.88,20,29536.0
+40,Female,Employed,Savings,132,1,81830,11,10,11,1,0.58,21,81830.0
+35,Male,Employed,Savings,75,2,9743,17,5,9,0,1.0,14,4871.5
+36,Female,Employed,Savings,122,1,150383,15,8,15,1,0.89,23,150383.0
+42,Female,Employed,Current,171,1,70871,12,9,13,0,0.84,22,70871.0
+32,Female,Employed,Savings,129,1,61963,14,10,9,0,0.63,19,61963.0
+26,Male,Self-employed,Savings,147,1,218654,13,13,10,0,0.71,23,218654.0
+33,Male,Self-employed,Fixed Deposit,89,1,113301,10,6,10,0,0.58,16,113301.0
+37,Female,Employed,Savings,135,3,144071,14,3,5,1,0.68,8,48023.67
+28,Female,Unemployed,Current,133,2,61410,17,13,10,2,0.67,23,30705.0
+51,Female,Self-employed,Current,156,3,344101,17,9,14,1,0.8,23,114700.33
+39,Male,Unemployed,Fixed Deposit,29,1,168619,18,17,10,0,0.59,27,168619.0
+27,Male,Employed,Savings,74,1,56091,19,7,14,0,0.55,21,56091.0
+31,Female,Employed,Savings,165,3,213366,15,6,11,0,0.88,17,71122.0
+36,Male,Self-employed,Fixed Deposit,13,4,84884,10,8,7,1,0.84,15,21221.0
+33,Male,Employed,Savings,47,3,107058,20,12,8,0,0.99,20,35686.0
+34,Male,Self-employed,Current,147,4,103500,13,7,7,0,0.66,14,25875.0
+35,Female,Employed,Savings,56,1,7556,16,4,14,0,0.78,18,7556.0
+18,Male,Employed,Current,169,3,10289,14,10,9,0,0.98,19,3429.67
+40,Female,Self-employed,Current,76,3,105056,14,14,9,0,0.85,23,35018.67
+26,Female,Employed,Savings,53,2,66468,13,9,10,0,0.87,19,33234.0
+36,Female,Self-employed,Savings,28,2,86877,18,11,9,1,0.87,20,43438.5
+42,Female,Employed,Savings,124,3,82579,12,12,5,0,0.79,17,27526.33
+28,Female,Self-employed,Fixed Deposit,51,2,93749,16,9,5,0,0.69,14,46874.5
+31,Female,Self-employed,Savings,73,3,175617,14,15,8,0,0.63,23,58539.0
+19,Female,Employed,Current,162,1,91141,12,6,9,1,0.52,15,91141.0
+31,Female,Employed,Savings,64,1,202840,16,12,14,0,0.78,26,202840.0
+20,Male,Self-employed,Current,101,3,20099,11,6,8,1,0.6,14,6699.67
+22,Male,Unemployed,Savings,87,2,215895,16,6,10,0,0.64,16,107947.5
+48,Male,Self-employed,Savings,29,2,496902,17,6,11,0,0.57,17,248451.0
+35,Female,Employed,Savings,58,1,160681,19,6,5,0,0.97,11,160681.0
+45,Female,Employed,Savings,72,3,135055,17,6,9,2,0.81,15,45018.33
+33,Male,Employed,Current,153,1,11969,11,11,11,0,0.77,22,11969.0
+34,Female,Unemployed,Savings,171,2,11960,25,7,16,1,0.99,23,5980.0
+43,Female,Self-employed,Current,170,2,10745,17,9,8,0,0.61,17,5372.5
+46,Female,Employed,Savings,106,2,231790,14,5,14,1,0.63,19,115895.0
+53,Male,Employed,Savings,154,1,68280,15,6,14,0,0.87,20,68280.0
+22,Female,Self-employed,Fixed Deposit,17,1,236040,12,3,7,0,0.81,10,236040.0
+44,Male,Employed,Current,25,2,75050,20,7,17,0,0.71,24,37525.0
+27,Male,Employed,Current,32,4,365779,16,8,9,1,0.51,17,91444.75
+37,Male,Employed,Savings,167,3,178256,15,6,8,0,0.62,14,59418.67
+44,Male,Employed,Current,14,2,162770,18,8,15,0,0.68,23,81385.0
+34,Female,Employed,Savings,126,2,52673,14,5,9,1,0.57,14,26336.5
+43,Female,Self-employed,Savings,77,3,209404,7,10,10,0,0.55,20,69801.33
+28,Male,Employed,Savings,172,1,283782,18,5,9,0,0.77,14,283782.0
+56,Female,Unemployed,Savings,105,1,446423,12,10,10,0,0.65,20,446423.0
+28,Female,Employed,Savings,50,1,107003,18,6,9,0,0.72,15,107003.0
+32,Female,Employed,Savings,61,2,61481,13,9,5,0,0.96,14,30740.5
+34,Male,Unemployed,Current,141,1,193489,6,6,12,0,0.7,18,193489.0
+35,Male,Employed,Current,20,3,112237,17,6,10,0,0.83,16,37412.33
+25,Female,Employed,Fixed Deposit,22,1,26937,15,10,13,0,0.88,23,26937.0
+21,Female,Unemployed,Savings,18,2,91633,14,6,8,1,0.63,14,45816.5
+18,Female,Employed,Current,123,4,226484,10,8,12,0,0.94,20,56621.0
+32,Male,Employed,Current,151,1,14208,17,4,8,0,0.76,12,14208.0
+22,Male,Self-employed,Savings,74,2,81406,9,8,13,0,0.93,21,40703.0
+30,Female,Employed,Savings,68,2,69335,9,10,12,0,0.8,22,34667.5
+28,Male,Employed,Fixed Deposit,46,4,260423,9,7,10,0,0.54,17,65105.75
+37,Female,Self-employed,Current,72,1,111961,14,10,7,0,0.84,17,111961.0
+30,Female,Employed,Savings,66,3,51959,19,9,9,0,0.88,18,17319.67
+32,Female,Unemployed,Savings,39,1,285719,9,4,4,0,0.87,8,285719.0
+28,Female,Employed,Current,172,2,74296,20,10,9,0,0.78,19,37148.0
+51,Female,Unemployed,Savings,152,1,339046,16,8,17,0,0.56,25,339046.0
+37,Male,Employed,Savings,144,1,85907,14,7,9,0,0.75,16,85907.0
+39,Female,Self-employed,Savings,118,1,274232,14,9,8,0,0.92,17,274232.0
+44,Female,Employed,Current,111,2,9272,9,12,10,0,0.87,22,4636.0
+24,Male,Self-employed,Savings,126,1,16949,16,10,8,0,0.84,18,16949.0
+43,Female,Employed,Current,97,1,17721,12,9,6,0,0.8,15,17721.0
+18,Female,Unemployed,Fixed Deposit,155,1,155991,16,6,12,0,0.63,18,155991.0
+45,Female,Employed,Savings,79,4,113973,14,8,14,0,0.73,22,28493.25
+59,Male,Self-employed,Savings,111,1,64420,19,12,11,0,0.53,23,64420.0
+34,Male,Self-employed,Savings,179,3,309972,19,9,10,0,0.84,19,103324.0
+28,Male,Self-employed,Fixed Deposit,24,2,342500,14,4,10,0,0.72,14,171250.0
+28,Male,Employed,Savings,67,1,65586,17,8,9,0,0.88,17,65586.0
+33,Female,Self-employed,Savings,103,1,365486,12,6,7,0,0.6,13,365486.0
+41,Male,Employed,Savings,179,2,273308,24,13,11,0,0.54,24,136654.0
+52,Female,Self-employed,Savings,82,1,172282,17,8,8,0,0.95,16,172282.0
+43,Female,Self-employed,Savings,18,1,72411,10,7,9,0,0.74,16,72411.0
+33,Female,Unemployed,Current,176,1,86885,12,10,8,0,0.99,18,86885.0
+30,Male,Employed,Savings,169,1,211835,13,10,13,0,0.97,23,211835.0
+30,Female,Self-employed,Savings,25,3,15732,14,10,11,0,0.95,21,5244.0
+29,Female,Employed,Savings,50,3,55321,19,9,13,0,0.55,22,18440.33
+40,Female,Self-employed,Savings,96,2,479741,18,6,9,0,0.7,15,239870.5
+32,Male,Unemployed,Savings,95,1,233903,17,3,7,0,0.5,10,233903.0
+39,Female,Employed,Savings,75,2,37435,14,5,9,0,0.7,14,18717.5
+30,Male,Employed,Current,141,1,334453,19,12,7,0,0.56,19,334453.0
+27,Male,Employed,Current,161,3,57624,14,6,14,0,0.59,20,19208.0
+32,Male,Employed,Fixed Deposit,19,2,35610,14,6,16,0,0.9,22,17805.0
+41,Female,Employed,Savings,148,4,30501,18,11,8,0,0.51,19,7625.25
+20,Male,Employed,Savings,133,1,110860,15,7,8,0,0.91,15,110860.0
+34,Male,Employed,Savings,85,1,139281,19,8,11,0,0.88,19,139281.0
+33,Female,Employed,Savings,97,1,98616,13,10,11,0,0.94,21,98616.0
+31,Female,Unemployed,Savings,122,3,37034,21,14,11,0,0.92,25,12344.67
+39,Male,Employed,Savings,168,3,157542,10,16,17,0,0.67,33,52514.0
+23,Male,Unemployed,Current,66,2,69191,16,3,8,0,0.58,11,34595.5
+35,Female,Employed,Current,144,1,67713,20,7,9,0,0.61,16,67713.0
+32,Female,Employed,Savings,83,1,43413,7,9,8,1,0.71,17,43413.0
+26,Female,Employed,Current,117,1,388203,13,7,10,0,0.98,17,388203.0
+25,Male,Self-employed,Current,153,2,16646,15,9,11,1,0.98,20,8323.0
+18,Male,Unemployed,Current,81,3,104370,16,9,11,0,0.59,20,34790.0
+46,Female,Employed,Savings,170,2,194951,12,9,8,0,0.6,17,97475.5
+30,Female,Employed,Savings,41,1,22557,19,7,16,1,0.6,23,22557.0
+34,Female,Employed,Savings,75,3,256599,18,8,12,0,0.54,20,85533.0
+31,Male,Self-employed,Savings,132,2,126184,14,7,16,0,0.95,23,63092.0
+38,Female,Employed,Savings,136,2,31196,16,10,5,0,0.58,15,15598.0
+34,Female,Employed,Fixed Deposit,37,2,109623,14,13,12,0,0.97,25,54811.5
+44,Female,Unemployed,Savings,149,3,64217,15,8,8,2,0.99,16,21405.67
+31,Male,Employed,Savings,87,1,48061,13,11,8,0,0.84,19,48061.0
+51,Female,Employed,Savings,61,2,48394,10,7,12,0,0.77,19,24197.0
+18,Male,Employed,Savings,17,3,184179,22,8,5,0,0.62,13,61393.0
+27,Female,Employed,Savings,99,1,110341,20,4,11,0,0.69,15,110341.0
+49,Female,Self-employed,Savings,76,2,243083,14,7,14,0,0.71,21,121541.5
+35,Male,Unemployed,Savings,120,1,108231,21,10,5,0,0.58,15,108231.0
+32,Male,Self-employed,Current,109,1,263451,10,10,6,0,0.76,16,263451.0
+47,Female,Unemployed,Savings,180,2,10231,13,8,8,0,0.87,16,5115.5
+33,Male,Unemployed,Fixed Deposit,120,3,94069,15,11,11,0,0.91,22,31356.33
+26,Female,Self-employed,Savings,21,1,54611,19,4,11,0,0.87,15,54611.0
+30,Male,Self-employed,Current,65,3,48302,14,9,11,0,0.53,20,16100.67
+39,Male,Employed,Savings,136,3,4593,15,7,14,0,0.9,21,1531.0
+39,Female,Self-employed,Fixed Deposit,92,1,10885,15,8,8,0,0.58,16,10885.0
+19,Male,Self-employed,Current,54,2,19647,17,10,12,0,0.99,22,9823.5
+41,Female,Employed,Current,97,4,413434,11,8,12,0,0.61,20,103358.5
+30,Male,Employed,Savings,161,1,11407,11,11,12,0,1.0,23,11407.0
+29,Female,Unemployed,Current,97,1,55368,11,13,14,0,0.55,27,55368.0
+39,Female,Self-employed,Savings,24,2,6752,23,7,11,0,0.82,18,3376.0
+35,Female,Self-employed,Savings,84,1,122566,10,9,9,0,0.83,18,122566.0
+30,Female,Employed,Current,42,4,260516,17,7,5,0,0.68,12,65129.0
+28,Male,Unemployed,Savings,32,1,45181,16,6,8,0,0.56,14,45181.0
+28,Male,Employed,Savings,135,2,115827,20,8,8,1,0.92,16,57913.5
+26,Male,Employed,Current,104,1,90432,14,11,7,0,0.96,18,90432.0
+35,Male,Employed,Savings,134,1,121168,22,8,6,0,0.89,14,121168.0
+18,Female,Employed,Savings,33,1,46784,16,9,9,0,0.86,18,46784.0
+31,Female,Employed,Current,150,1,1326,13,3,3,0,0.83,6,1326.0
+32,Male,Self-employed,Savings,163,4,41661,14,4,10,0,0.84,14,10415.25
+26,Female,Employed,Savings,131,1,282547,15,8,10,0,0.94,18,282547.0
+42,Male,Employed,Fixed Deposit,29,1,161244,13,5,14,0,0.79,19,161244.0
+45,Male,Employed,Savings,54,2,100967,15,4,6,1,0.64,10,50483.5
+35,Female,Self-employed,Savings,50,4,314416,14,10,10,0,0.88,20,78604.0
+36,Male,Employed,Savings,169,2,152444,12,12,6,0,0.66,18,76222.0
+44,Male,Self-employed,Savings,135,1,70301,17,9,8,1,0.85,17,70301.0
+29,Female,Self-employed,Current,116,1,403418,15,8,15,0,0.7,23,403418.0
+44,Male,Employed,Fixed Deposit,126,2,179404,15,11,10,1,0.59,21,89702.0
+20,Female,Employed,Savings,65,3,197900,13,11,13,0,0.86,24,65966.67
+33,Female,Employed,Current,67,1,88846,18,9,7,0,0.92,16,88846.0
+22,Male,Employed,Savings,111,1,323401,11,7,6,0,0.72,13,323401.0
+24,Male,Employed,Fixed Deposit,64,4,2315,15,8,8,2,0.79,16,578.75
+38,Female,Self-employed,Current,108,1,21462,15,6,11,1,0.98,17,21462.0
+31,Male,Employed,Savings,138,3,94647,20,9,11,0,0.92,20,31549.0
+35,Male,Unemployed,Current,49,3,17787,14,6,11,0,0.68,17,5929.0
+26,Male,Self-employed,Savings,97,1,10574,11,6,6,0,0.96,12,10574.0
+33,Female,Employed,Savings,76,2,43768,12,10,11,0,0.74,21,21884.0
+31,Female,Self-employed,Savings,157,1,171771,14,7,14,1,0.91,21,171771.0
+47,Female,Self-employed,Savings,61,2,343241,18,5,8,0,0.95,13,171620.5
+39,Female,Employed,Current,111,1,50367,16,11,13,0,0.89,24,50367.0
+34,Female,Unemployed,Current,145,1,64865,13,10,14,0,0.72,24,64865.0
+40,Female,Employed,Current,72,1,60833,15,10,13,0,0.98,23,60833.0
+35,Female,Employed,Current,173,1,18759,12,5,6,0,0.9,11,18759.0
+26,Male,Employed,Fixed Deposit,14,2,504169,19,10,13,0,0.69,23,252084.5
+18,Male,Self-employed,Fixed Deposit,162,1,6744,12,3,8,0,0.82,11,6744.0
+34,Female,Employed,Savings,15,2,149985,15,8,8,1,0.92,16,74992.5
+51,Female,Employed,Fixed Deposit,176,2,22969,19,6,10,1,0.64,16,11484.5
+35,Male,Self-employed,Fixed Deposit,50,1,109356,17,6,10,0,0.82,16,109356.0
+47,Female,Employed,Savings,78,1,222594,13,12,11,0,0.76,23,222594.0
+36,Male,Employed,Current,125,1,516298,13,3,7,0,0.54,10,516298.0
+26,Female,Unemployed,Savings,175,4,41586,11,10,12,0,0.99,22,10396.5
+40,Female,Employed,Fixed Deposit,80,3,16978,15,5,6,0,0.54,11,5659.33
+28,Male,Self-employed,Savings,93,3,21404,16,6,8,0,0.62,14,7134.67
+23,Female,Employed,Savings,73,3,57010,24,8,7,1,0.8,15,19003.33
+39,Female,Unemployed,Current,18,3,31032,20,10,13,0,0.97,23,10344.0
+31,Female,Employed,Savings,85,1,12024,11,9,10,0,0.87,19,12024.0
+33,Male,Employed,Savings,140,2,169174,18,11,13,0,0.96,24,84587.0
+38,Male,Employed,Savings,132,1,16203,16,11,6,0,0.82,17,16203.0
+31,Male,Employed,Savings,126,4,175575,16,10,4,0,0.99,14,43893.75
+50,Female,Employed,Current,41,4,307549,16,7,8,0,0.98,15,76887.25
+21,Female,Employed,Savings,162,2,815198,17,11,12,0,0.97,23,407599.0
+19,Male,Employed,Savings,43,1,13590,16,6,14,0,0.88,20,13590.0
+41,Female,Self-employed,Current,57,1,66672,16,9,8,0,0.84,17,66672.0
+27,Female,Unemployed,Savings,101,3,46683,18,12,7,1,0.54,19,15561.0
+39,Female,Employed,Savings,164,2,28010,10,6,8,0,0.52,14,14005.0
+32,Male,Employed,Current,121,2,153750,18,7,16,0,0.75,23,76875.0
+38,Female,Employed,Fixed Deposit,15,3,42576,17,12,20,0,0.63,32,14192.0
+46,Male,Self-employed,Fixed Deposit,19,1,6395,17,7,8,0,0.66,15,6395.0
+35,Male,Self-employed,Savings,130,3,96070,11,10,9,0,0.52,19,32023.33
+44,Male,Employed,Savings,104,1,10722,10,5,10,0,0.53,15,10722.0
+18,Female,Unemployed,Current,27,3,55842,18,5,14,0,0.84,19,18614.0
+42,Male,Self-employed,Savings,96,1,162839,9,6,8,0,0.67,14,162839.0
+20,Male,Employed,Savings,163,3,20629,21,7,12,0,0.69,19,6876.33
+38,Female,Employed,Savings,70,1,383377,19,6,11,0,0.9,17,383377.0
+43,Male,Employed,Savings,100,1,8847,12,7,12,0,0.58,19,8847.0
+21,Male,Self-employed,Savings,75,1,158202,15,8,6,0,0.82,14,158202.0
+29,Female,Employed,Savings,42,1,8800,13,11,13,0,0.54,24,8800.0
+53,Male,Employed,Current,87,3,32307,14,7,12,1,0.95,19,10769.0
+47,Female,Self-employed,Savings,69,2,11145,13,7,6,1,0.84,13,5572.5
+42,Female,Self-employed,Savings,175,2,42170,23,9,8,0,0.98,17,21085.0
+27,Male,Unemployed,Savings,66,3,515760,15,4,8,0,0.91,12,171920.0
+34,Male,Employed,Savings,109,3,92629,20,9,17,0,0.97,26,30876.33
+19,Male,Employed,Savings,24,4,71794,13,11,10,0,0.59,21,17948.5
+42,Female,Self-employed,Savings,138,1,104634,18,9,7,0,0.98,16,104634.0
+26,Female,Self-employed,Fixed Deposit,73,1,116664,22,10,11,2,0.81,21,116664.0
+22,Male,Employed,Savings,15,1,210285,25,10,10,0,0.61,20,210285.0
+45,Female,Employed,Savings,70,1,213494,15,10,7,0,0.98,17,213494.0
+26,Female,Unemployed,Fixed Deposit,99,1,355869,11,8,9,0,0.96,17,355869.0
+28,Female,Employed,Current,48,1,424556,15,10,8,0,0.75,18,424556.0
+31,Male,Employed,Savings,44,1,14121,14,8,11,1,0.89,19,14121.0
+46,Female,Self-employed,Current,97,1,45741,10,5,8,0,0.57,13,45741.0
+37,Female,Self-employed,Savings,27,3,56255,11,15,4,0,0.64,19,18751.67
+42,Male,Employed,Savings,33,2,203481,8,9,4,0,0.63,13,101740.5
+25,Female,Employed,Savings,129,1,60021,18,7,7,0,0.72,14,60021.0
+28,Male,Employed,Savings,20,4,186089,14,5,10,0,0.6,15,46522.25
+44,Female,Employed,Current,72,1,36726,19,6,15,0,0.88,21,36726.0
+29,Male,Employed,Savings,85,2,364813,13,5,13,0,0.66,18,182406.5
+42,Female,Self-employed,Savings,103,2,788687,15,9,5,0,0.89,14,394343.5
+36,Male,Employed,Savings,81,1,197818,7,7,10,0,0.99,17,197818.0
+41,Male,Self-employed,Savings,38,3,224526,12,6,15,0,0.88,21,74842.0
+46,Female,Employed,Savings,146,1,175404,8,5,10,0,0.93,15,175404.0
+43,Male,Employed,Savings,164,2,57425,15,10,7,0,0.96,17,28712.5
+28,Male,Employed,Savings,106,1,411112,21,9,13,0,0.77,22,411112.0
+46,Male,Employed,Savings,157,2,133329,15,7,17,1,0.99,24,66664.5
+42,Female,Employed,Savings,80,1,100365,15,10,5,0,0.93,15,100365.0
+40,Male,Employed,Savings,145,2,596596,13,17,13,0,0.89,30,298298.0
+43,Male,Employed,Savings,78,1,33427,13,13,8,0,0.88,21,33427.0
+23,Female,Unemployed,Savings,152,2,44935,13,7,13,0,0.65,20,22467.5
+40,Male,Employed,Savings,112,4,135335,22,8,8,0,0.8,16,33833.75
+29,Female,Employed,Savings,169,4,285439,7,5,17,1,0.62,22,71359.75
+37,Female,Employed,Savings,149,2,575916,16,8,7,0,0.85,15,287958.0
+28,Male,Employed,Current,57,4,545430,18,12,12,0,0.85,24,136357.5
+31,Female,Employed,Savings,35,2,1173274,24,11,14,1,0.93,25,586637.0
+18,Female,Unemployed,Savings,174,3,193321,11,9,10,0,0.93,19,64440.33
+40,Female,Self-employed,Fixed Deposit,143,2,592896,14,7,5,0,0.9,12,296448.0
+21,Male,Self-employed,Savings,146,1,109583,13,6,14,0,0.78,20,109583.0
+50,Male,Employed,Savings,66,2,13767,14,5,10,0,0.83,15,6883.5
+39,Male,Employed,Current,167,1,117594,17,11,4,0,0.79,15,117594.0
+32,Male,Employed,Current,96,3,47417,22,8,14,0,0.66,22,15805.67
+18,Male,Employed,Fixed Deposit,67,3,121681,14,14,12,0,0.5,26,40560.33
+41,Female,Employed,Savings,20,4,128299,18,12,12,0,0.87,24,32074.75
+36,Female,Employed,Current,31,1,39141,14,7,11,0,0.85,18,39141.0
+38,Female,Employed,Current,62,4,44063,16,8,11,0,0.71,19,11015.75
+23,Male,Employed,Fixed Deposit,118,2,126966,20,11,11,0,0.99,22,63483.0
+24,Male,Employed,Savings,139,3,47652,15,11,13,0,0.93,24,15884.0
+31,Female,Self-employed,Savings,150,2,75678,18,8,13,0,0.89,21,37839.0
+20,Female,Self-employed,Savings,150,3,74092,23,13,3,1,0.62,16,24697.33
+23,Female,Self-employed,Savings,91,1,17601,19,7,17,1,0.81,24,17601.0
+29,Female,Self-employed,Savings,22,2,367096,22,14,7,0,0.7,21,183548.0
+49,Female,Unemployed,Current,37,1,37555,16,11,3,0,0.53,14,37555.0
+51,Male,Self-employed,Savings,34,3,54786,13,8,7,0,0.52,15,18262.0
+34,Male,Employed,Current,52,1,770567,23,12,10,0,0.64,22,770567.0
+31,Male,Self-employed,Current,150,1,329420,20,9,10,0,0.67,19,329420.0
+33,Female,Employed,Savings,145,3,498352,10,6,15,0,0.89,21,166117.33
+39,Male,Employed,Current,19,3,118763,18,9,6,0,0.93,15,39587.67
+30,Male,Employed,Current,136,3,230092,17,11,10,0,0.51,21,76697.33
+40,Male,Employed,Current,107,2,34234,19,9,6,0,0.6,15,17117.0
+35,Male,Unemployed,Fixed Deposit,69,1,34528,16,7,11,0,0.66,18,34528.0
+43,Female,Employed,Savings,155,1,79069,13,6,6,0,0.75,12,79069.0
+59,Male,Employed,Savings,176,2,37171,17,11,10,0,0.9,21,18585.5
+33,Male,Employed,Savings,86,2,87729,20,3,3,0,0.6,6,43864.5
+26,Female,Self-employed,Current,147,1,70555,19,9,10,0,0.56,19,70555.0
+34,Male,Self-employed,Savings,54,2,102197,19,7,6,0,0.9,13,51098.5
+28,Female,Employed,Current,18,3,334212,15,8,11,0,0.8,19,111404.0
+32,Female,Self-employed,Savings,137,4,164912,16,6,7,0,0.75,13,41228.0
+42,Male,Employed,Current,114,1,104104,23,10,11,0,0.7,21,104104.0
+27,Female,Unemployed,Savings,19,1,43987,12,9,13,0,0.65,22,43987.0
+42,Male,Employed,Fixed Deposit,149,3,61269,19,14,9,0,0.94,23,20423.0
+46,Female,Employed,Savings,86,3,9041,13,10,6,0,0.76,16,3013.67
+25,Male,Employed,Fixed Deposit,139,2,53036,17,13,17,1,0.67,30,26518.0
+63,Male,Employed,Savings,98,1,341073,9,9,10,0,0.93,19,341073.0
+31,Female,Employed,Savings,15,1,85127,18,9,10,0,0.84,19,85127.0
+46,Male,Self-employed,Savings,48,1,6939,14,2,13,0,0.53,15,6939.0
+37,Male,Employed,Savings,71,2,381780,19,9,9,0,0.73,18,190890.0
+29,Male,Employed,Current,86,2,128910,20,8,9,1,0.98,17,64455.0
+23,Female,Employed,Current,47,4,147453,19,13,11,0,0.79,24,36863.25
+26,Male,Self-employed,Savings,40,2,255511,17,9,15,0,0.65,24,127755.5
+41,Female,Employed,Savings,48,2,202440,23,9,9,1,0.87,18,101220.0
+46,Male,Self-employed,Savings,32,1,24508,13,9,13,0,0.78,22,24508.0
+44,Female,Self-employed,Savings,143,1,382956,13,6,20,0,0.52,26,382956.0
+21,Male,Employed,Fixed Deposit,97,2,483498,16,10,4,0,0.6,14,241749.0
+41,Male,Employed,Savings,74,3,62420,16,9,15,0,0.83,24,20806.67
+34,Male,Employed,Savings,95,1,41151,17,6,6,0,0.75,12,41151.0
+40,Female,Self-employed,Current,61,1,18330,13,11,7,0,0.73,18,18330.0
+26,Male,Employed,Savings,156,2,34287,10,7,8,0,0.6,15,17143.5
+32,Male,Employed,Savings,124,2,168877,14,7,11,0,0.73,18,84438.5
+41,Female,Employed,Fixed Deposit,85,3,315347,17,4,16,0,0.62,20,105115.67
+41,Female,Employed,Savings,81,1,11251,22,8,7,0,0.77,15,11251.0
+26,Male,Self-employed,Current,113,2,294663,16,2,12,0,0.66,14,147331.5
+44,Male,Employed,Fixed Deposit,103,4,239844,20,9,11,0,0.81,20,59961.0
+18,Male,Employed,Savings,36,2,185632,13,8,17,0,0.82,25,92816.0
+41,Male,Employed,Savings,129,1,24287,16,10,15,0,0.88,25,24287.0
+20,Male,Self-employed,Savings,43,2,102102,12,6,11,0,0.65,17,51051.0
+45,Female,Employed,Current,145,2,861,10,8,16,0,0.63,24,430.5
+26,Male,Employed,Savings,160,2,383715,18,9,8,0,0.77,17,191857.5
+40,Male,Employed,Savings,174,2,45253,9,9,6,0,0.96,15,22626.5
+35,Male,Employed,Savings,97,3,34757,18,4,11,0,0.53,15,11585.67
+41,Female,Self-employed,Current,64,1,23392,15,9,9,1,0.89,18,23392.0
+18,Male,Employed,Savings,145,4,96757,9,4,7,0,0.78,11,24189.25
+49,Female,Employed,Savings,99,1,395566,22,6,9,0,0.79,15,395566.0
+33,Female,Employed,Savings,151,1,10026,14,2,8,1,0.63,10,10026.0
+19,Female,Employed,Current,55,2,90430,18,8,11,0,0.65,19,45215.0
+20,Male,Employed,Savings,156,2,151286,19,7,9,1,0.69,16,75643.0
+37,Female,Employed,Savings,179,2,128763,22,10,15,0,0.83,25,64381.5
+53,Female,Self-employed,Savings,155,2,49886,16,15,13,0,0.94,28,24943.0
+28,Male,Unemployed,Fixed Deposit,30,2,150233,9,7,12,0,0.56,19,75116.5
+29,Male,Employed,Current,37,1,166776,10,4,8,2,0.83,12,166776.0
+51,Female,Employed,Savings,57,1,32608,14,10,8,0,0.72,18,32608.0
+38,Male,Employed,Savings,89,1,110135,17,9,8,1,0.71,17,110135.0
+34,Female,Self-employed,Current,117,3,69257,11,5,9,0,0.51,14,23085.67
+26,Female,Self-employed,Current,121,1,209973,23,8,7,0,0.98,15,209973.0
+49,Female,Employed,Savings,32,2,198735,12,3,7,0,0.79,10,99367.5
+42,Female,Employed,Savings,68,4,91353,11,5,11,0,0.99,16,22838.25
+45,Female,Employed,Current,135,1,123464,22,10,8,0,0.66,18,123464.0
+36,Female,Employed,Current,156,2,222438,17,10,15,1,0.69,25,111219.0
+31,Male,Self-employed,Savings,19,1,111940,15,7,11,0,0.86,18,111940.0
+37,Female,Self-employed,Savings,51,2,100301,14,10,10,0,0.62,20,50150.5
+18,Male,Self-employed,Current,58,3,398678,12,9,8,0,0.92,17,132892.67
+50,Female,Self-employed,Current,43,1,124079,13,12,15,0,0.72,27,124079.0
+26,Female,Employed,Savings,62,4,62110,14,5,12,0,0.95,17,15527.5
+30,Female,Self-employed,Savings,97,1,24038,22,10,13,0,0.64,23,24038.0
+42,Male,Employed,Current,30,1,572666,11,12,7,1,0.86,19,572666.0
+40,Female,Employed,Savings,91,3,15004,10,13,8,0,0.95,21,5001.33
+32,Female,Self-employed,Savings,106,3,121732,11,8,14,0,0.56,22,40577.33
+40,Female,Employed,Current,25,1,20757,16,7,9,0,0.88,16,20757.0
+38,Female,Employed,Savings,129,1,62123,14,4,9,0,0.84,13,62123.0
+50,Male,Employed,Current,174,1,175945,12,8,10,1,0.51,18,175945.0
+27,Female,Self-employed,Savings,45,1,81208,18,13,10,1,0.53,23,81208.0
+24,Female,Employed,Current,63,1,31100,15,6,10,1,0.68,16,31100.0
+41,Male,Employed,Savings,92,1,29302,8,15,7,0,0.61,22,29302.0
+38,Female,Employed,Savings,73,2,111006,12,9,16,0,0.7,25,55503.0
+27,Male,Employed,Savings,32,3,32985,13,6,8,0,0.95,14,10995.0
+38,Male,Employed,Fixed Deposit,168,1,8165,16,4,15,0,0.81,19,8165.0
+20,Male,Employed,Savings,80,4,251975,13,9,10,0,0.93,19,62993.75
+29,Female,Employed,Savings,23,3,244921,17,15,13,0,0.93,28,81640.33
+28,Female,Employed,Current,158,1,729,17,6,11,0,0.68,17,729.0
+40,Female,Employed,Savings,27,1,31631,13,7,9,1,0.8,16,31631.0
+44,Female,Self-employed,Current,36,2,247990,8,12,12,0,0.87,24,123995.0
+38,Female,Self-employed,Savings,91,3,162918,22,11,11,1,0.85,22,54306.0
+37,Female,Employed,Savings,88,3,226410,15,9,13,0,0.96,22,75470.0
+27,Female,Self-employed,Savings,164,2,9133,24,3,10,0,0.74,13,4566.5
+48,Female,Employed,Current,33,2,9338,18,10,10,1,0.87,20,4669.0
+25,Female,Self-employed,Current,49,2,90123,12,7,15,0,0.65,22,45061.5
+36,Male,Employed,Current,93,2,356890,22,11,12,0,0.83,23,178445.0
+28,Male,Unemployed,Current,101,1,122404,23,7,11,0,0.59,18,122404.0
+43,Female,Employed,Savings,56,3,31873,17,8,9,0,0.59,17,10624.33
+55,Female,Self-employed,Current,130,3,903839,17,7,15,0,0.71,22,301279.67
+43,Male,Self-employed,Current,114,1,314921,12,10,5,0,0.55,15,314921.0
+18,Male,Self-employed,Current,123,2,198646,5,8,13,0,0.92,21,99323.0
+46,Male,Employed,Savings,77,3,25453,17,11,12,0,0.85,23,8484.33
+46,Male,Self-employed,Savings,52,2,268953,20,9,12,0,0.53,21,134476.5
+31,Male,Employed,Current,27,2,282323,17,9,9,1,0.95,18,141161.5
+42,Female,Self-employed,Current,143,2,54817,11,8,15,1,0.66,23,27408.5
+42,Male,Employed,Savings,66,2,227579,17,5,12,0,0.73,17,113789.5
+33,Female,Self-employed,Savings,51,2,91659,18,9,14,0,0.85,23,45829.5
+36,Male,Self-employed,Fixed Deposit,63,2,69191,16,8,8,0,0.83,16,34595.5
+22,Female,Employed,Savings,57,2,270240,20,2,11,1,0.88,13,135120.0
+20,Male,Employed,Current,122,2,79785,17,7,11,0,0.6,18,39892.5
+27,Male,Employed,Savings,160,3,80451,23,9,14,0,0.87,23,26817.0
+43,Male,Employed,Current,40,1,151375,22,8,15,0,0.95,23,151375.0
+37,Female,Employed,Savings,20,1,79264,19,3,8,0,0.98,11,79264.0
+37,Male,Employed,Savings,87,3,40884,21,10,9,2,0.75,19,13628.0
+61,Female,Employed,Savings,160,4,479121,15,6,17,0,0.5,23,119780.25
+28,Male,Employed,Current,36,1,73678,9,6,10,0,0.73,16,73678.0
+52,Male,Employed,Savings,129,3,62558,15,7,13,0,0.69,20,20852.67
+31,Male,Employed,Current,177,2,147581,16,7,8,0,0.81,15,73790.5
+22,Female,Self-employed,Savings,50,1,75318,15,8,6,0,0.63,14,75318.0
+29,Female,Employed,Savings,135,1,50696,11,5,17,0,0.75,22,50696.0
+44,Female,Unemployed,Savings,99,1,175615,15,7,8,1,0.88,15,175615.0
+30,Male,Unemployed,Current,123,1,56235,11,6,7,0,0.83,13,56235.0
+38,Female,Employed,Savings,32,3,96215,11,8,11,0,0.99,19,32071.67
+32,Female,Employed,Savings,106,1,681034,15,7,11,0,0.68,18,681034.0
+18,Female,Employed,Savings,105,3,108837,12,7,4,0,0.55,11,36279.0
+38,Female,Unemployed,Savings,44,2,125156,11,8,9,0,0.92,17,62578.0
+37,Male,Self-employed,Current,130,2,126624,14,12,16,0,0.93,28,63312.0
+26,Male,Self-employed,Current,148,1,449390,13,5,12,0,0.64,17,449390.0
+48,Male,Self-employed,Savings,102,2,265091,20,13,6,0,0.93,19,132545.5
+37,Male,Self-employed,Current,112,1,168214,9,9,12,0,0.86,21,168214.0
+38,Female,Self-employed,Fixed Deposit,26,1,91315,22,10,10,0,0.77,20,91315.0
+31,Male,Self-employed,Fixed Deposit,179,1,37549,9,7,6,0,0.88,13,37549.0
+33,Male,Employed,Fixed Deposit,79,1,251263,11,10,9,0,0.5,19,251263.0
+33,Male,Employed,Savings,45,1,35277,12,10,18,0,0.83,28,35277.0
+39,Female,Self-employed,Savings,16,4,21476,9,8,12,0,0.54,20,5369.0
+31,Female,Self-employed,Current,163,4,71547,11,11,9,1,0.63,20,17886.75
+18,Male,Self-employed,Savings,150,1,88259,21,7,8,0,0.9,15,88259.0
+38,Male,Employed,Current,73,1,522004,18,5,7,0,0.59,12,522004.0
+37,Male,Employed,Savings,22,3,10448,22,11,11,0,0.82,22,3482.67
+54,Male,Employed,Current,45,3,43941,13,12,6,0,0.91,18,14647.0
+36,Female,Self-employed,Current,161,1,232850,15,5,9,1,0.68,14,232850.0
+45,Female,Employed,Savings,40,1,113152,21,7,14,0,0.9,21,113152.0
+48,Male,Employed,Savings,143,1,225984,15,4,7,0,0.6,11,225984.0
+48,Female,Unemployed,Savings,130,4,15059,17,9,8,0,0.61,17,3764.75
+39,Male,Unemployed,Current,40,1,263565,15,5,12,0,0.64,17,263565.0
+43,Female,Self-employed,Current,91,2,374453,21,6,7,0,0.99,13,187226.5
+36,Female,Employed,Savings,51,2,141007,10,7,14,0,0.6,21,70503.5
+35,Male,Self-employed,Savings,31,1,81243,17,10,13,1,0.69,23,81243.0
+40,Female,Self-employed,Savings,164,2,207618,15,10,9,0,0.76,19,103809.0
+66,Female,Self-employed,Current,98,3,6855,16,8,11,0,0.9,19,2285.0
+38,Male,Employed,Savings,173,1,82779,11,8,16,0,0.99,24,82779.0
+37,Male,Employed,Savings,80,3,591350,11,9,18,0,0.82,27,197116.67
+36,Male,Self-employed,Savings,139,1,52240,16,15,9,0,0.83,24,52240.0
+33,Female,Self-employed,Current,145,4,17418,13,8,7,0,0.93,15,4354.5
+35,Female,Self-employed,Current,65,1,69073,17,10,7,0,0.78,17,69073.0
+21,Male,Employed,Savings,97,1,70899,11,7,15,0,0.99,22,70899.0
+37,Male,Employed,Savings,130,1,117311,14,4,9,0,0.58,13,117311.0
+31,Male,Self-employed,Current,74,2,9181,14,7,12,0,0.89,19,4590.5
+29,Male,Employed,Current,69,2,60638,12,3,11,0,0.92,14,30319.0
+22,Male,Self-employed,Current,25,1,126017,9,5,6,0,0.94,11,126017.0
+31,Male,Employed,Savings,50,2,16336,20,11,8,0,0.92,19,8168.0
+45,Female,Employed,Savings,160,4,227079,13,9,15,0,0.79,24,56769.75
+26,Male,Employed,Savings,98,1,712108,22,6,15,0,0.8,21,712108.0
+18,Female,Employed,Savings,121,3,127564,22,4,7,0,0.54,11,42521.33
+35,Female,Self-employed,Current,51,4,216990,19,9,12,0,0.99,21,54247.5
+44,Female,Employed,Current,173,1,92744,19,9,10,0,0.61,19,92744.0
+36,Female,Self-employed,Current,163,1,23783,16,5,9,0,0.71,14,23783.0
+30,Male,Employed,Savings,126,1,138363,10,7,13,0,0.69,20,138363.0
+31,Female,Employed,Current,129,1,49027,23,7,10,0,0.56,17,49027.0
+33,Female,Employed,Savings,38,4,179922,16,6,11,1,0.74,17,44980.5
+24,Male,Self-employed,Savings,81,1,51835,14,10,11,0,0.85,21,51835.0
+31,Male,Employed,Savings,38,1,144603,10,8,11,0,0.9,19,144603.0
+40,Male,Employed,Fixed Deposit,147,2,53034,22,6,6,1,0.78,12,26517.0
+34,Female,Employed,Savings,25,1,143208,14,6,7,2,0.77,13,143208.0
+39,Male,Employed,Current,118,3,233099,15,6,13,0,0.88,19,77699.67
+44,Male,Employed,Savings,87,1,150800,11,14,7,0,0.89,21,150800.0
+40,Male,Employed,Current,113,1,21157,17,10,10,0,0.62,20,21157.0
+35,Male,Self-employed,Savings,104,4,12052,10,13,7,0,0.82,20,3013.0
+39,Female,Employed,Savings,14,3,143177,11,11,8,1,0.6,19,47725.67
+28,Female,Employed,Savings,87,2,59111,18,3,14,0,0.94,17,29555.5
+45,Male,Employed,Savings,177,3,16760,12,12,9,0,0.8,21,5586.67
+37,Female,Employed,Savings,167,4,407769,16,9,15,1,0.82,24,101942.25
+18,Female,Employed,Savings,87,2,203622,19,7,14,0,0.97,21,101811.0
+35,Male,Employed,Savings,129,2,79410,17,7,12,0,0.53,19,39705.0
+40,Female,Employed,Savings,41,2,256990,13,8,9,0,1.0,17,128495.0
+42,Male,Employed,Savings,151,4,178040,14,11,6,0,0.52,17,44510.0
+34,Male,Employed,Current,136,1,8210,8,9,14,0,0.67,23,8210.0
+44,Male,Employed,Current,157,3,338606,6,8,9,0,0.64,17,112868.67
+25,Male,Self-employed,Current,109,2,520585,17,6,7,0,0.78,13,260292.5
+41,Female,Employed,Savings,50,2,68531,20,7,9,0,0.72,16,34265.5
+32,Female,Self-employed,Savings,38,2,23947,18,4,10,0,0.51,14,11973.5
+18,Female,Employed,Fixed Deposit,132,2,51492,13,9,14,1,0.5,23,25746.0
+28,Female,Self-employed,Savings,132,1,13422,14,5,10,0,0.69,15,13422.0
+35,Male,Employed,Current,129,2,138038,29,4,9,0,0.59,13,69019.0
+49,Female,Employed,Savings,57,1,117609,14,6,10,1,0.51,16,117609.0
+33,Female,Self-employed,Savings,151,2,44563,12,7,9,0,0.89,16,22281.5
+30,Female,Self-employed,Savings,30,1,368654,21,9,14,0,0.67,23,368654.0
+26,Male,Employed,Current,28,4,63730,10,12,15,1,0.5,27,15932.5
+18,Male,Employed,Current,27,1,70566,17,3,7,0,0.63,10,70566.0
+58,Female,Unemployed,Savings,163,1,28744,20,8,11,0,0.65,19,28744.0
+38,Male,Self-employed,Current,30,1,83493,8,5,11,0,0.9,16,83493.0
+30,Female,Employed,Current,44,3,348384,10,16,7,0,0.94,23,116128.0
+47,Male,Employed,Savings,29,2,117194,14,9,9,0,0.87,18,58597.0
+43,Male,Unemployed,Current,84,2,230980,20,2,4,0,0.58,6,115490.0
+29,Male,Employed,Savings,74,2,7308,18,9,6,0,0.93,15,3654.0
+52,Female,Employed,Current,109,1,712221,15,7,9,0,0.55,16,712221.0
+43,Female,Employed,Savings,51,1,723080,15,7,5,0,0.92,12,723080.0
+37,Female,Self-employed,Savings,40,1,19253,11,6,14,0,0.57,20,19253.0
+27,Male,Unemployed,Current,78,2,167940,12,6,8,0,0.78,14,83970.0
