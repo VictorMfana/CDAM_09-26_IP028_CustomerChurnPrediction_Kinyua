@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Python environment files
+.env
+
+# Model files
+# *.pkl
+# *.joblib
+
+# OS files
+.DS_Store
+Thumbs.db
