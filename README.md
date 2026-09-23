@@ -22,7 +22,7 @@ Financial institutions lose deposits, transaction revenue, and cross-selling opp
 - **Tenure is the dominant driver of churn risk** — confirmed independently across EDA correlations, SHAP global importance, and Partial Dependence Plots. It's roughly **5.5x** more influential than the next-strongest factor.
 - **Complaint history is the second-most influential, and actionable, factor** — unlike tenure, this is something a retention team can act on directly.
 - **Balance, digital usage, account type, and demographics are weak standalone predictors** — an honest, data-supported finding that shaped the choice of a simpler, more interpretable final model.
-- **Final model:** Logistic Regression, selected from 5 tuned algorithms (Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM), achieving ROC-AUC ≈ 0.62.
+- **Final model:** Logistic Regression, selected from 5 tuned algorithms (Logistic Regression, Decision Tree, Random Forest, XGBoost, LightGBM), achieving ROC-AUC ≈ 0.62.S
 
 ## Project Structure
 
@@ -93,10 +93,10 @@ pip install -r requirements.txt
 jupyter notebook notebooks/
 
 # Run the app
-streamlit run app/streamlit_app.py
+streamlit run app/app.py
 ```
 
-## Author
+## Author - Victor Mfana Kinyua
 
-**Victor** 
-Built as part of a Machine Learning internship project on customer churn prediction.
+
+Built as part of a Machine Learning internship project on customer churn prediction at the Center for data analytics and Modelling at Chuka University
