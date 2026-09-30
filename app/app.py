@@ -1,7 +1,7 @@
 """
-streamlit_app.py
-Customer Churn Risk-Scoring App — Task 6 deployment.
-Run locally with: streamlit run streamlit_app.py
+app.py
+Customer Churn Risk-Scoring App — deployment.
+Run locally with: streamlit run app.py
 """
 
 import streamlit as st
